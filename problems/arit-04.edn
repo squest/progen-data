@@ -1,0 +1,960 @@
+[{:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    8 x 4 = _____\n</p>\n\n",
+   :options
+   [[false "24 " 0]
+    [false "31 " 1]
+    [false "29 " 2]
+    [true "32 " 3]
+    [false "28" 4]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "568152d0468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    2 x 9 = _____\n</p>\n\n",
+   :options
+   [[false "16 " 0]
+    [false "20 " 1]
+    [true "18 " 2]
+    [false "19" 3]
+    [false "27 " 4]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "568152d1468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    5 x 4 = _____\n</p>\n\n",
+   :options
+   [[false "21" 0]
+    [false "22 " 1]
+    [false "18 " 2]
+    [false "16 " 3]
+    [true "20 " 4]],
+   :jawaban "E"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "568152d2468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    8 x 3 = _____\n</p>\n\n",
+   :options
+   [[false "27 " 0]
+    [false "21 " 1]
+    [false "23 " 2]
+    [true "24 " 3]
+    [false "18" 4]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "568152d3468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    2 x 8 = _____\n</p>\n\n",
+   :options
+   [[false "24" 0]
+    [false "15 " 1]
+    [false "17 " 2]
+    [false "14 " 3]
+    [true "16 " 4]],
+   :jawaban "E"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "568152d4468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    4 x 2 = _____\n</p>\n\n",
+   :options
+   [[false "9 " 0]
+    [false "5" 1]
+    [false "10 " 2]
+    [true "8 " 3]
+    [false "6 " 4]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "568152d5468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    7 x 8 = _____\n</p>\n\n",
+   :options
+   [[false "53 " 0]
+    [false "57 " 1]
+    [true "56 " 2]
+    [false "64" 3]
+    [false "48 " 4]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "568152d6468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    6 x 3 = _____\n</p>\n\n",
+   :options
+   [[false "19 " 0]
+    [false "15" 1]
+    [true "18 " 2]
+    [false "17 " 3]
+    [false "12 " 4]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "568152d7468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    3 x 4 = _____\n</p>\n\n",
+   :options
+   [[true "12 " 0]
+    [false "9 " 1]
+    [false "10 " 2]
+    [false "14" 3]
+    [false "11 " 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "568152d8468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    2 x 4 = _____\n</p>\n\n",
+   :options
+   [[false "12" 0]
+    [false "4 " 1]
+    [false "0 " 2]
+    [true "8 " 3]
+    [false "9 " 4]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "568152d9468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    8 x 2 = _____\n</p>\n\n",
+   :options
+   [[false "13 " 0]
+    [true "16 " 1]
+    [false "14 " 2]
+    [false "17" 3]
+    [false "12 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "568152da468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    4 x 6 = _____\n</p>\n\n",
+   :options
+   [[false "12" 0]
+    [false "22 " 1]
+    [false "25 " 2]
+    [false "30 " 3]
+    [true "24 " 4]],
+   :jawaban "E"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "568152db468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    5 x 5 = _____\n</p>\n\n",
+   :options
+   [[false "24 " 0]
+    [false "26" 1]
+    [false "15 " 2]
+    [false "27 " 3]
+    [true "25 " 4]],
+   :jawaban "E"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "568152dc468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    2 x 6 = _____\n</p>\n\n",
+   :options
+   [[false "18 " 0]
+    [false "6 " 1]
+    [false "14 " 2]
+    [false "10" 3]
+    [true "12 " 4]],
+   :jawaban "E"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "568152dd468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    4 x 4 = _____\n</p>\n\n",
+   :options
+   [[false "18" 0]
+    [false "13 " 1]
+    [false "14 " 2]
+    [true "16 " 3]
+    [false "20 " 4]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "568152de468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    3 x 6 = _____\n</p>\n\n",
+   :options
+   [[false "17" 0]
+    [false "16 " 1]
+    [false "15 " 2]
+    [false "24 " 3]
+    [true "18 " 4]],
+   :jawaban "E"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "568152df468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    5 x 3 = _____\n</p>\n\n",
+   :options
+   [[false "13 " 0]
+    [false "17" 1]
+    [false "12 " 2]
+    [true "15 " 3]
+    [false "16 " 4]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "568152e0468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    8 x 5 = _____\n</p>\n\n",
+   :options
+   [[false "30" 0]
+    [false "45 " 1]
+    [false "41 " 2]
+    [true "40 " 3]
+    [false "39 " 4]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "568152e1468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    5 x 7 = _____\n</p>\n\n",
+   :options
+   [[false "34 " 0]
+    [false "28" 1]
+    [false "32 " 2]
+    [false "21 " 3]
+    [true "35 " 4]],
+   :jawaban "E"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "568152e2468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    9 x 9 = _____\n</p>\n\n",
+   :options
+   [[false "72 " 0]
+    [true "81 " 1]
+    [false "63" 2]
+    [false "79 " 3]
+    [false "78 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "568152e3468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    2 x 7 = _____\n</p>\n\n",
+   :options
+   [[true "14 " 0]
+    [false "7 " 1]
+    [false "13 " 2]
+    [false "21" 3]
+    [false "15 " 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "568152e4468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    5 x 2 = _____\n</p>\n\n",
+   :options
+   [[true "10 " 0]
+    [false "6" 1]
+    [false "12 " 2]
+    [false "7 " 3]
+    [false "11 " 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "568152e5468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    5 x 8 = _____\n</p>\n\n",
+   :options
+   [[true "40 " 0]
+    [false "48" 1]
+    [false "37 " 2]
+    [false "38 " 3]
+    [false "42 " 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "568152e6468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    4 x 3 = _____\n</p>\n\n",
+   :options
+   [[false "9 " 0]
+    [false "6" 1]
+    [true "12 " 2]
+    [false "13 " 3]
+    [false "14 " 4]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "568152e7468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    3 x 3 = _____\n</p>\n\n",
+   :options
+   [[false "6 " 0]
+    [false "8 " 1]
+    [false "11" 2]
+    [false "3 " 3]
+    [true "9 " 4]],
+   :jawaban "E"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "568152e8468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    3 x 7 = _____\n</p>\n\n",
+   :options
+   [[true "21 " 0]
+    [false "22 " 1]
+    [false "28 " 2]
+    [false "23 " 3]
+    [false "7" 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "568152e9468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    7 x 9 = _____\n</p>\n\n",
+   :options
+   [[false "61 " 0]
+    [false "72 " 1]
+    [true "63 " 2]
+    [false "65" 3]
+    [false "62 " 4]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "568152ea468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    6 x 8 = _____\n</p>\n\n",
+   :options
+   [[false "47 " 0]
+    [true "48 " 1]
+    [false "46 " 2]
+    [false "40" 3]
+    [false "49 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "568152eb468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    7 x 3 = _____\n</p>\n\n",
+   :options
+   [[true "21 " 0]
+    [false "18 " 1]
+    [false "15" 2]
+    [false "24 " 3]
+    [false "20 " 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "568152ec468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    5 x 6 = _____\n</p>\n\n",
+   :options
+   [[false "31 " 0]
+    [false "32 " 1]
+    [false "18 " 2]
+    [false "29" 3]
+    [true "30 " 4]],
+   :jawaban "E"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "568152ed468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    2 x 3 = _____\n</p>\n\n",
+   :options
+   [[false "9 " 0]
+    [false "0 " 1]
+    [false "7" 2]
+    [false "8 " 3]
+    [true "6 " 4]],
+   :jawaban "E"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "568152ee468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    8 x 6 = _____\n</p>\n\n",
+   :options
+   [[false "42 " 0]
+    [false "50 " 1]
+    [false "46" 2]
+    [false "49 " 3]
+    [true "48 " 4]],
+   :jawaban "E"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "568152ef468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    3 x 2 = _____\n</p>\n\n",
+   :options
+   [[false "7 " 0]
+    [false "8 " 1]
+    [false "5" 2]
+    [true "6 " 3]
+    [false "4 " 4]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "568152f0468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    4 x 7 = _____\n</p>\n\n",
+   :options
+   [[false "25" 0]
+    [true "28 " 1]
+    [false "30 " 2]
+    [false "35 " 3]
+    [false "29 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "568152f1468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    6 x 9 = _____\n</p>\n\n",
+   :options
+   [[true "54 " 0]
+    [false "55 " 1]
+    [false "63 " 2]
+    [false "53 " 3]
+    [false "52" 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "568152f2468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    9 x 7 = _____\n</p>\n\n",
+   :options
+   [[false "65 " 0]
+    [true "63 " 1]
+    [false "62" 2]
+    [false "60 " 3]
+    [false "70 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "568152f3468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    9 x 3 = _____\n</p>\n\n",
+   :options
+   [[false "21 " 0]
+    [false "29 " 1]
+    [false "25 " 2]
+    [false "26" 3]
+    [true "27 " 4]],
+   :jawaban "E"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "568152f4468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    6 x 6 = _____\n</p>\n\n",
+   :options
+   [[true "36 " 0]
+    [false "35 " 1]
+    [false "42" 2]
+    [false "33 " 3]
+    [false "24 " 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "568152f5468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    7 x 7 = _____\n</p>\n\n",
+   :options
+   [[false "42 " 0]
+    [true "49 " 1]
+    [false "48" 2]
+    [false "51 " 3]
+    [false "46 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "568152f6468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    3 x 9 = _____\n</p>\n\n",
+   :options
+   [[false "28 " 0]
+    [true "27 " 1]
+    [false "9 " 2]
+    [false "36" 3]
+    [false "24 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "568152f7468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    6 x 7 = _____\n</p>\n\n",
+   :options
+   [[false "40 " 0]
+    [false "49 " 1]
+    [false "43 " 2]
+    [true "42 " 3]
+    [false "35" 4]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "568152f8468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    9 x 6 = _____\n</p>\n\n",
+   :options
+   [[false "52" 0]
+    [false "48 " 1]
+    [false "56 " 2]
+    [false "60 " 3]
+    [true "54 " 4]],
+   :jawaban "E"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "568152f9468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    4 x 8 = _____\n</p>\n\n",
+   :options
+   [[true "32 " 0]
+    [false "16 " 1]
+    [false "34" 2]
+    [false "40 " 3]
+    [false "29 " 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "568152fa468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    4 x 9 = _____\n</p>\n\n",
+   :options
+   [[false "34" 0]
+    [false "38 " 1]
+    [false "37 " 2]
+    [false "33 " 3]
+    [true "36 " 4]],
+   :jawaban "E"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "568152fb468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    7 x 5 = _____\n</p>\n\n",
+   :options
+   [[false "34 " 0]
+    [false "25 " 1]
+    [false "40" 2]
+    [true "35 " 3]
+    [false "37 " 4]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "568152fc468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    5 x 9 = _____\n</p>\n\n",
+   :options
+   [[true "45 " 0]
+    [false "36" 1]
+    [false "43 " 2]
+    [false "54 " 3]
+    [false "44 " 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "568152fd468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    6 x 5 = _____\n</p>\n\n",
+   :options
+   [[false "35" 0]
+    [true "30 " 1]
+    [false "28 " 2]
+    [false "25 " 3]
+    [false "27 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "568152fe468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    8 x 7 = _____\n</p>\n\n",
+   :options
+   [[false "53 " 0]
+    [false "58 " 1]
+    [false "49" 2]
+    [true "56 " 3]
+    [false "57 " 4]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "568152ff468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    2 x 5 = _____\n</p>\n\n",
+   :options
+   [[false "8" 0]
+    [true "10 " 1]
+    [false "7 " 2]
+    [false "11 " 3]
+    [false "9 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56815300468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    7 x 2 = _____\n</p>\n\n",
+   :options
+   [[false "16 " 0]
+    [false "11 " 1]
+    [false "12 " 2]
+    [true "14 " 3]
+    [false "15" 4]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56815301468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    7 x 4 = _____\n</p>\n\n",
+   :options
+   [[true "28 " 0]
+    [false "29" 1]
+    [false "20 " 2]
+    [false "24 " 3]
+    [false "25 " 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56815302468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    9 x 8 = _____\n</p>\n\n",
+   :options
+   [[true "72 " 0]
+    [false "73" 1]
+    [false "69 " 2]
+    [false "74 " 3]
+    [false "71 " 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56815303468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    3 x 8 = _____\n</p>\n\n",
+   :options
+   [[true "24 " 0]
+    [false "25 " 1]
+    [false "32" 2]
+    [false "16 " 3]
+    [false "26 " 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56815304468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    6 x 4 = _____\n</p>\n\n",
+   :options
+   [[true "24 " 0]
+    [false "21 " 1]
+    [false "22 " 2]
+    [false "25" 3]
+    [false "16 " 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56815305468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    2 x 2 = _____\n</p>\n\n",
+   :options
+   [[false "5 " 0]
+    [false "2 " 1]
+    [false "6 " 2]
+    [false "3" 3]
+    [true "4 " 4]],
+   :jawaban "E"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56815306468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    9 x 2 = _____\n</p>\n\n",
+   :options
+   [[false "19" 0]
+    [true "18 " 1]
+    [false "14 " 2]
+    [false "20 " 3]
+    [false "17 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56815307468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    9 x 5 = _____\n</p>\n\n",
+   :options
+   [[true "45 " 0]
+    [false "43 " 1]
+    [false "40" 2]
+    [false "47 " 3]
+    [false "42 " 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56815308468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    9 x 4 = _____\n</p>\n\n",
+   :options
+   [[false "32 " 0]
+    [true "36 " 1]
+    [false "38 " 2]
+    [false "28" 3]
+    [false "37 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56815309468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    8 x 9 = _____\n</p>\n\n",
+   :options
+   [[false "54" 0]
+    [false "69 " 1]
+    [true "72 " 2]
+    [false "63 " 3]
+    [false "74 " 4]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "5681530a468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    7 x 6 = _____\n</p>\n\n",
+   :options
+   [[true "42 " 0]
+    [false "39 " 1]
+    [false "30 " 2]
+    [false "43 " 3]
+    [false "36" 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "5681530b468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    6 x 2 = _____\n</p>\n\n",
+   :options
+   [[false "10 " 0]
+    [false "14 " 1]
+    [false "11" 2]
+    [true "12 " 3]
+    [false "8 " 4]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "5681530c468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    8 x 8 = _____\n</p>\n\n",
+   :options
+   [[false "63" 0]
+    [false "62 " 1]
+    [false "65 " 2]
+    [true "64 " 3]
+    [false "56 " 4]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "5681530d468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    4 x 5 = _____\n</p>\n\n",
+   :options
+   [[false "25 " 0]
+    [false "10 " 1]
+    [false "22" 2]
+    [true "20 " 3]
+    [false "21 " 4]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "5681530e468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    3 x 5 = _____\n</p>\n\n",
+   :options
+   [[true "15 " 0]
+    [false "14" 1]
+    [false "16 " 2]
+    [false "17 " 3]
+    [false "5 " 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja. <br>\n    One tip : Coba tulis berulang2x yang cepet kelipatan untuk bilangan bulat penting <br>\n    Misal kelipatan 7 : 7 14 21 28 dst sampe at least 7 x 15an lah. <br>\n    Tapi jangan diapalin, cuma latihan untuk generating deretnya sendiri aja. <br>\n    Ini bisa bikin ngitung makin cepet seharusnya :)\n</p>",
+  :template-id "7a44bfb0417f11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "5681530f468611eba53b81e59324e143"}]

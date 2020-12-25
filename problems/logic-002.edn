@@ -1,0 +1,1000 @@
+[{:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menjual sepeda: <br>\n  lahir di bulan Januari dan pernah nonton minimal 5 FTV Indonesia. <br>\n  Jika Nobita tidak lahir di bulan Januari, maka Nobita tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjual sepeda, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus lahir di bulan Januari <br>\n  dan harus pernah nonton minimal 5 FTV Indonesia. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Nobita udah diketahui gak lahir di bulan Januari yaa, artinya kita udah bisa simpulin <br>\n  bahwa Nobita gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb040468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menjual sepeda: <br>\n  lahir di bulan Januari dan jago matematika. <br>\n  Jika Mbakyul tidak lahir di bulan Januari, maka Mbakyul tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjual sepeda, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus lahir di bulan Januari <br>\n  dan harus jago matematika. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Mbakyul udah diketahui gak lahir di bulan Januari yaa, artinya kita udah bisa simpulin <br>\n  bahwa Mbakyul gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb041468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menjadi penyanyi: <br>\n  pernah sen kanan belok kiri dan berkulit hijau muda. <br>\n  Jika Unyil tidak pernah sen kanan belok kiri, maka Unyil tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid" 0] [false "Tidak valid " 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi penyanyi, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus pernah sen kanan belok kiri <br>\n  dan harus berkulit hijau muda. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Unyil udah diketahui gak pernah sen kanan belok kiri yaa, artinya kita udah bisa simpulin <br>\n  bahwa Unyil gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb042468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk pulang kampung: <br>\n  pernah mendorong pintu bertuliskan pull/tarik dan pernah bolos sekolah. <br>\n  Jika Hantu tidak pernah mendorong pintu bertuliskan pull/tarik, maka Hantu tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid" 0] [false "Tidak valid " 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk pulang kampung, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus pernah mendorong pintu bertuliskan pull/tarik <br>\n  dan harus pernah bolos sekolah. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Hantu udah diketahui gak pernah mendorong pintu bertuliskan pull/tarik yaa, artinya kita udah bisa simpulin <br>\n  bahwa Hantu gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb043468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk pulang kampung: <br>\n  pernah sen kiri belok kanan dan berusia 60 tahun atau lebih. <br>\n  Jika Cendol tidak pernah sen kiri belok kanan, maka Cendol tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk pulang kampung, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus pernah sen kiri belok kanan <br>\n  dan harus berusia 60 tahun atau lebih. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Cendol udah diketahui gak pernah sen kiri belok kanan yaa, artinya kita udah bisa simpulin <br>\n  bahwa Cendol gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb044468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menjadi pacar dia: <br>\n  pernah masuk angin dan suka makan bubur diaduk. <br>\n  Jika Ucup tidak pernah masuk angin, maka Ucup tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid" 0] [false "Tidak valid " 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi pacar dia, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus pernah masuk angin <br>\n  dan harus suka makan bubur diaduk. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Ucup udah diketahui gak pernah masuk angin yaa, artinya kita udah bisa simpulin <br>\n  bahwa Ucup gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb045468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk naik pesawat: <br>\n  pernah sen kiri belok kanan dan pernah nonton minimal 5 FTV Indonesia. <br>\n  Jika Jon tidak pernah sen kiri belok kanan, maka Jon tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid" 0] [false "Tidak valid " 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk naik pesawat, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus pernah sen kiri belok kanan <br>\n  dan harus pernah nonton minimal 5 FTV Indonesia. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Jon udah diketahui gak pernah sen kiri belok kanan yaa, artinya kita udah bisa simpulin <br>\n  bahwa Jon gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb046468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk diterima di kampus impian: <br>\n  pernah sen kanan belok kiri dan tahu minimal 5 judul sinetron Indonesia. <br>\n  Jika Cendol tidak pernah sen kanan belok kiri, maka Cendol tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk diterima di kampus impian, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus pernah sen kanan belok kiri <br>\n  dan harus tahu minimal 5 judul sinetron Indonesia. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Cendol udah diketahui gak pernah sen kanan belok kiri yaa, artinya kita udah bisa simpulin <br>\n  bahwa Cendol gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb047468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menjadi pacar dia: <br>\n  fans Kpop dan jago masak. <br>\n  Jika Mbakyul tidak fans Kpop, maka Mbakyul tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi pacar dia, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus fans Kpop <br>\n  dan harus jago masak. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Mbakyul udah diketahui gak fans Kpop yaa, artinya kita udah bisa simpulin <br>\n  bahwa Mbakyul gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb048468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menjadi pacar dia: <br>\n  pernah masuk angin dan suka makan bubur diaduk. <br>\n  Jika Mamad tidak pernah masuk angin, maka Mamad tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid" 0] [false "Tidak valid " 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi pacar dia, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus pernah masuk angin <br>\n  dan harus suka makan bubur diaduk. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Mamad udah diketahui gak pernah masuk angin yaa, artinya kita udah bisa simpulin <br>\n  bahwa Mamad gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb049468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk diterima di kampus impian: <br>\n  pernah mendorong pintu bertuliskan pull/tarik dan berusia 60 tahun atau lebih. <br>\n  Jika Nobita tidak pernah mendorong pintu bertuliskan pull/tarik, maka Nobita tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk diterima di kampus impian, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus pernah mendorong pintu bertuliskan pull/tarik <br>\n  dan harus berusia 60 tahun atau lebih. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Nobita udah diketahui gak pernah mendorong pintu bertuliskan pull/tarik yaa, artinya kita udah bisa simpulin <br>\n  bahwa Nobita gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb04a468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk diterima di kampus impian: <br>\n  pernah mutusin orang dengan alasan mau fokus UN dan jago matematika. <br>\n  Jika Hantu tidak pernah mutusin orang dengan alasan mau fokus UN, maka Hantu tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk diterima di kampus impian, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus pernah mutusin orang dengan alasan mau fokus UN <br>\n  dan harus jago matematika. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Hantu udah diketahui gak pernah mutusin orang dengan alasan mau fokus UN yaa, artinya kita udah bisa simpulin <br>\n  bahwa Hantu gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb04b468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk mendapatkan kulit ayam KFC gratis: <br>\n  pernah masuk angin dan pernah bolos sekolah. <br>\n  Jika Cendol tidak pernah masuk angin, maka Cendol tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid" 0] [false "Tidak valid " 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk mendapatkan kulit ayam KFC gratis, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus pernah masuk angin <br>\n  dan harus pernah bolos sekolah. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Cendol udah diketahui gak pernah masuk angin yaa, artinya kita udah bisa simpulin <br>\n  bahwa Cendol gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb04c468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menjadi miss universe: <br>\n  fans Kpop dan berusia 60 tahun atau lebih. <br>\n  Jika Momos tidak fans Kpop, maka Momos tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi miss universe, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus fans Kpop <br>\n  dan harus berusia 60 tahun atau lebih. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Momos udah diketahui gak fans Kpop yaa, artinya kita udah bisa simpulin <br>\n  bahwa Momos gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb04d468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menjadi miss universe: <br>\n  lahir di bulan Januari dan memiliki tinggi badan 160 cm atau lebih. <br>\n  Jika Mamad tidak lahir di bulan Januari, maka Mamad tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid" 0] [false "Tidak valid " 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi miss universe, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus lahir di bulan Januari <br>\n  dan harus memiliki tinggi badan 160 cm atau lebih. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Mamad udah diketahui gak lahir di bulan Januari yaa, artinya kita udah bisa simpulin <br>\n  bahwa Mamad gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb04e468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menjual sepeda: <br>\n  lahir di bulan Januari dan suka makan bubur diaduk. <br>\n  Jika Oncom tidak lahir di bulan Januari, maka Oncom tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid" 0] [false "Tidak valid " 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjual sepeda, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus lahir di bulan Januari <br>\n  dan harus suka makan bubur diaduk. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Oncom udah diketahui gak lahir di bulan Januari yaa, artinya kita udah bisa simpulin <br>\n  bahwa Oncom gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb04f468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk diterima di kampus impian: <br>\n  pernah mendorong pintu bertuliskan pull/tarik dan jago masak. <br>\n  Jika Maimunah tidak pernah mendorong pintu bertuliskan pull/tarik, maka Maimunah tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk diterima di kampus impian, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus pernah mendorong pintu bertuliskan pull/tarik <br>\n  dan harus jago masak. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Maimunah udah diketahui gak pernah mendorong pintu bertuliskan pull/tarik yaa, artinya kita udah bisa simpulin <br>\n  bahwa Maimunah gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb050468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menjadi miss universe: <br>\n  fans Kpop dan suka makan bubur diaduk. <br>\n  Jika Mamad tidak fans Kpop, maka Mamad tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi miss universe, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus fans Kpop <br>\n  dan harus suka makan bubur diaduk. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Mamad udah diketahui gak fans Kpop yaa, artinya kita udah bisa simpulin <br>\n  bahwa Mamad gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb051468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menikahi dia: <br>\n  pernah mutusin orang dengan alasan mau fokus UN dan memiliki tinggi badan 160 cm atau lebih. <br>\n  Jika Mamad tidak pernah mutusin orang dengan alasan mau fokus UN, maka Mamad tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menikahi dia, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus pernah mutusin orang dengan alasan mau fokus UN <br>\n  dan harus memiliki tinggi badan 160 cm atau lebih. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Mamad udah diketahui gak pernah mutusin orang dengan alasan mau fokus UN yaa, artinya kita udah bisa simpulin <br>\n  bahwa Mamad gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb052468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk membeli ikan cupang: <br>\n  tertarik dengan drakor dan jago masak. <br>\n  Jika Cendol tidak tertarik dengan drakor, maka Cendol tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk membeli ikan cupang, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus tertarik dengan drakor <br>\n  dan harus jago masak. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Cendol udah diketahui gak tertarik dengan drakor yaa, artinya kita udah bisa simpulin <br>\n  bahwa Cendol gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb053468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menjadi pesulap: <br>\n  pernah sen kanan belok kiri dan suka makan bubur diaduk. <br>\n  Jika Mbakyul tidak pernah sen kanan belok kiri, maka Mbakyul tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi pesulap, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus pernah sen kanan belok kiri <br>\n  dan harus suka makan bubur diaduk. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Mbakyul udah diketahui gak pernah sen kanan belok kiri yaa, artinya kita udah bisa simpulin <br>\n  bahwa Mbakyul gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb054468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menjadi miss universe: <br>\n  pernah sen kanan belok kiri dan berkulit hijau muda. <br>\n  Jika Nobita tidak pernah sen kanan belok kiri, maka Nobita tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid" 0] [false "Tidak valid " 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi miss universe, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus pernah sen kanan belok kiri <br>\n  dan harus berkulit hijau muda. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Nobita udah diketahui gak pernah sen kanan belok kiri yaa, artinya kita udah bisa simpulin <br>\n  bahwa Nobita gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb055468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk pulang kampung: <br>\n  pernah masuk angin dan jago matematika. <br>\n  Jika Ucup tidak pernah masuk angin, maka Ucup tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk pulang kampung, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus pernah masuk angin <br>\n  dan harus jago matematika. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Ucup udah diketahui gak pernah masuk angin yaa, artinya kita udah bisa simpulin <br>\n  bahwa Ucup gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb056468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk pulang kampung: <br>\n  tertarik dengan drakor dan memiliki tinggi badan 160 cm atau lebih. <br>\n  Jika Ucup tidak tertarik dengan drakor, maka Ucup tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk pulang kampung, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus tertarik dengan drakor <br>\n  dan harus memiliki tinggi badan 160 cm atau lebih. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Ucup udah diketahui gak tertarik dengan drakor yaa, artinya kita udah bisa simpulin <br>\n  bahwa Ucup gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb057468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk pulang kampung: <br>\n  pernah masuk angin dan pernah nonton minimal 5 FTV Indonesia. <br>\n  Jika Squidward tidak pernah masuk angin, maka Squidward tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid" 0] [false "Tidak valid " 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk pulang kampung, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus pernah masuk angin <br>\n  dan harus pernah nonton minimal 5 FTV Indonesia. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Squidward udah diketahui gak pernah masuk angin yaa, artinya kita udah bisa simpulin <br>\n  bahwa Squidward gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb058468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menjadi penyanyi: <br>\n  fans Kpop dan tahu minimal 5 judul sinetron Indonesia. <br>\n  Jika Hantu tidak fans Kpop, maka Hantu tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi penyanyi, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus fans Kpop <br>\n  dan harus tahu minimal 5 judul sinetron Indonesia. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Hantu udah diketahui gak fans Kpop yaa, artinya kita udah bisa simpulin <br>\n  bahwa Hantu gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb059468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menjual sepeda: <br>\n  tertarik dengan drakor dan jago masak. <br>\n  Jika Ucup tidak tertarik dengan drakor, maka Ucup tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjual sepeda, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus tertarik dengan drakor <br>\n  dan harus jago masak. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Ucup udah diketahui gak tertarik dengan drakor yaa, artinya kita udah bisa simpulin <br>\n  bahwa Ucup gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb05a468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menjual sepeda: <br>\n  pernah mutusin orang dengan alasan mau fokus UN dan pernah nonton minimal 5 FTV Indonesia. <br>\n  Jika Ucup tidak pernah mutusin orang dengan alasan mau fokus UN, maka Ucup tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid" 0] [false "Tidak valid " 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjual sepeda, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus pernah mutusin orang dengan alasan mau fokus UN <br>\n  dan harus pernah nonton minimal 5 FTV Indonesia. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Ucup udah diketahui gak pernah mutusin orang dengan alasan mau fokus UN yaa, artinya kita udah bisa simpulin <br>\n  bahwa Ucup gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb05b468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk diterima di kampus impian: <br>\n  fans Kpop dan berkulit hijau muda. <br>\n  Jika Maimunah tidak fans Kpop, maka Maimunah tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk diterima di kampus impian, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus fans Kpop <br>\n  dan harus berkulit hijau muda. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Maimunah udah diketahui gak fans Kpop yaa, artinya kita udah bisa simpulin <br>\n  bahwa Maimunah gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb05c468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk diterima di kampus impian: <br>\n  lahir di bulan Januari dan selalu jujur. <br>\n  Jika Jon tidak lahir di bulan Januari, maka Jon tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid" 0] [false "Tidak valid " 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk diterima di kampus impian, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus lahir di bulan Januari <br>\n  dan harus selalu jujur. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Jon udah diketahui gak lahir di bulan Januari yaa, artinya kita udah bisa simpulin <br>\n  bahwa Jon gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb05d468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk pulang kampung: <br>\n  pernah mutusin orang dengan alasan mau fokus UN dan tahu minimal 5 judul sinetron Indonesia. <br>\n  Jika Unyil tidak pernah mutusin orang dengan alasan mau fokus UN, maka Unyil tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk pulang kampung, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus pernah mutusin orang dengan alasan mau fokus UN <br>\n  dan harus tahu minimal 5 judul sinetron Indonesia. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Unyil udah diketahui gak pernah mutusin orang dengan alasan mau fokus UN yaa, artinya kita udah bisa simpulin <br>\n  bahwa Unyil gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb05e468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk mendapatkan kulit ayam KFC gratis: <br>\n  tertarik dengan drakor dan memiliki tinggi badan 160 cm atau lebih. <br>\n  Jika Hantu tidak tertarik dengan drakor, maka Hantu tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid" 0] [false "Tidak valid " 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk mendapatkan kulit ayam KFC gratis, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus tertarik dengan drakor <br>\n  dan harus memiliki tinggi badan 160 cm atau lebih. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Hantu udah diketahui gak tertarik dengan drakor yaa, artinya kita udah bisa simpulin <br>\n  bahwa Hantu gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb05f468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menjadi pacar dia: <br>\n  pernah mendorong pintu bertuliskan pull/tarik dan selalu jujur. <br>\n  Jika Mbakyul tidak pernah mendorong pintu bertuliskan pull/tarik, maka Mbakyul tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid" 0] [false "Tidak valid " 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi pacar dia, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus pernah mendorong pintu bertuliskan pull/tarik <br>\n  dan harus selalu jujur. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Mbakyul udah diketahui gak pernah mendorong pintu bertuliskan pull/tarik yaa, artinya kita udah bisa simpulin <br>\n  bahwa Mbakyul gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb060468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menjual sepeda: <br>\n  pernah masuk angin dan suka makan bubur diaduk. <br>\n  Jika Mamad tidak pernah masuk angin, maka Mamad tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjual sepeda, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus pernah masuk angin <br>\n  dan harus suka makan bubur diaduk. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Mamad udah diketahui gak pernah masuk angin yaa, artinya kita udah bisa simpulin <br>\n  bahwa Mamad gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb061468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk naik pesawat: <br>\n  lahir di bulan Januari dan berkulit hijau muda. <br>\n  Jika Squidward tidak lahir di bulan Januari, maka Squidward tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk naik pesawat, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus lahir di bulan Januari <br>\n  dan harus berkulit hijau muda. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Squidward udah diketahui gak lahir di bulan Januari yaa, artinya kita udah bisa simpulin <br>\n  bahwa Squidward gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb062468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menjadi pesulap: <br>\n  lahir di bulan Januari dan berkulit hijau muda. <br>\n  Jika Squidward tidak lahir di bulan Januari, maka Squidward tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi pesulap, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus lahir di bulan Januari <br>\n  dan harus berkulit hijau muda. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Squidward udah diketahui gak lahir di bulan Januari yaa, artinya kita udah bisa simpulin <br>\n  bahwa Squidward gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb063468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk membeli ikan cupang: <br>\n  lahir di bulan Januari dan pernah nonton minimal 5 FTV Indonesia. <br>\n  Jika Oncom tidak lahir di bulan Januari, maka Oncom tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid" 0] [false "Tidak valid " 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk membeli ikan cupang, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus lahir di bulan Januari <br>\n  dan harus pernah nonton minimal 5 FTV Indonesia. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Oncom udah diketahui gak lahir di bulan Januari yaa, artinya kita udah bisa simpulin <br>\n  bahwa Oncom gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb064468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menjadi pacar dia: <br>\n  pernah sen kanan belok kiri dan berusia 60 tahun atau lebih. <br>\n  Jika Momos tidak pernah sen kanan belok kiri, maka Momos tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi pacar dia, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus pernah sen kanan belok kiri <br>\n  dan harus berusia 60 tahun atau lebih. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Momos udah diketahui gak pernah sen kanan belok kiri yaa, artinya kita udah bisa simpulin <br>\n  bahwa Momos gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb065468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menjadi pesulap: <br>\n  pernah masuk angin dan jago matematika. <br>\n  Jika Oncom tidak pernah masuk angin, maka Oncom tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi pesulap, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus pernah masuk angin <br>\n  dan harus jago matematika. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Oncom udah diketahui gak pernah masuk angin yaa, artinya kita udah bisa simpulin <br>\n  bahwa Oncom gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb066468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menjual sepeda: <br>\n  tertarik dengan drakor dan berusia 60 tahun atau lebih. <br>\n  Jika Momos tidak tertarik dengan drakor, maka Momos tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjual sepeda, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus tertarik dengan drakor <br>\n  dan harus berusia 60 tahun atau lebih. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Momos udah diketahui gak tertarik dengan drakor yaa, artinya kita udah bisa simpulin <br>\n  bahwa Momos gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb067468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk pulang kampung: <br>\n  tertarik dengan drakor dan jago masak. <br>\n  Jika Mamad tidak tertarik dengan drakor, maka Mamad tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid" 0] [false "Tidak valid " 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk pulang kampung, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus tertarik dengan drakor <br>\n  dan harus jago masak. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Mamad udah diketahui gak tertarik dengan drakor yaa, artinya kita udah bisa simpulin <br>\n  bahwa Mamad gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb068468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menjadi miss universe: <br>\n  pernah mutusin orang dengan alasan mau fokus UN dan jago masak. <br>\n  Jika Oncom tidak pernah mutusin orang dengan alasan mau fokus UN, maka Oncom tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid" 0] [false "Tidak valid " 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi miss universe, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus pernah mutusin orang dengan alasan mau fokus UN <br>\n  dan harus jago masak. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Oncom udah diketahui gak pernah mutusin orang dengan alasan mau fokus UN yaa, artinya kita udah bisa simpulin <br>\n  bahwa Oncom gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb069468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk naik pesawat: <br>\n  tertarik dengan drakor dan berusia 60 tahun atau lebih. <br>\n  Jika Momos tidak tertarik dengan drakor, maka Momos tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid" 0] [false "Tidak valid " 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk naik pesawat, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus tertarik dengan drakor <br>\n  dan harus berusia 60 tahun atau lebih. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Momos udah diketahui gak tertarik dengan drakor yaa, artinya kita udah bisa simpulin <br>\n  bahwa Momos gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb06a468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk diterima di kampus impian: <br>\n  pernah sen kiri belok kanan dan suka makan bubur diaduk. <br>\n  Jika Jon tidak pernah sen kiri belok kanan, maka Jon tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk diterima di kampus impian, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus pernah sen kiri belok kanan <br>\n  dan harus suka makan bubur diaduk. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Jon udah diketahui gak pernah sen kiri belok kanan yaa, artinya kita udah bisa simpulin <br>\n  bahwa Jon gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb06b468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menikahi dia: <br>\n  pernah mutusin orang dengan alasan mau fokus UN dan berusia 60 tahun atau lebih. <br>\n  Jika Nobita tidak pernah mutusin orang dengan alasan mau fokus UN, maka Nobita tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menikahi dia, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus pernah mutusin orang dengan alasan mau fokus UN <br>\n  dan harus berusia 60 tahun atau lebih. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Nobita udah diketahui gak pernah mutusin orang dengan alasan mau fokus UN yaa, artinya kita udah bisa simpulin <br>\n  bahwa Nobita gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb06c468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk membeli ikan cupang: <br>\n  pernah mendorong pintu bertuliskan pull/tarik dan pernah nonton minimal 5 FTV Indonesia. <br>\n  Jika Maimunah tidak pernah mendorong pintu bertuliskan pull/tarik, maka Maimunah tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk membeli ikan cupang, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus pernah mendorong pintu bertuliskan pull/tarik <br>\n  dan harus pernah nonton minimal 5 FTV Indonesia. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Maimunah udah diketahui gak pernah mendorong pintu bertuliskan pull/tarik yaa, artinya kita udah bisa simpulin <br>\n  bahwa Maimunah gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb06d468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menikahi dia: <br>\n  fans Kpop dan suka makan bubur diaduk. <br>\n  Jika Oncom tidak fans Kpop, maka Oncom tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid" 0] [false "Tidak valid " 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menikahi dia, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus fans Kpop <br>\n  dan harus suka makan bubur diaduk. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Oncom udah diketahui gak fans Kpop yaa, artinya kita udah bisa simpulin <br>\n  bahwa Oncom gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb06e468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menikahi dia: <br>\n  pernah sen kanan belok kiri dan berusia 60 tahun atau lebih. <br>\n  Jika Cendol tidak pernah sen kanan belok kiri, maka Cendol tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid" 0] [false "Tidak valid " 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menikahi dia, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus pernah sen kanan belok kiri <br>\n  dan harus berusia 60 tahun atau lebih. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Cendol udah diketahui gak pernah sen kanan belok kiri yaa, artinya kita udah bisa simpulin <br>\n  bahwa Cendol gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb06f468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk membeli ikan cupang: <br>\n  pernah mendorong pintu bertuliskan pull/tarik dan selalu jujur. <br>\n  Jika Mamad tidak pernah mendorong pintu bertuliskan pull/tarik, maka Mamad tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk membeli ikan cupang, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus pernah mendorong pintu bertuliskan pull/tarik <br>\n  dan harus selalu jujur. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Mamad udah diketahui gak pernah mendorong pintu bertuliskan pull/tarik yaa, artinya kita udah bisa simpulin <br>\n  bahwa Mamad gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb070468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menjadi pesulap: <br>\n  pernah mutusin orang dengan alasan mau fokus UN dan memiliki tinggi badan 160 cm atau lebih. <br>\n  Jika Momos tidak pernah mutusin orang dengan alasan mau fokus UN, maka Momos tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid" 0] [false "Tidak valid " 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi pesulap, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus pernah mutusin orang dengan alasan mau fokus UN <br>\n  dan harus memiliki tinggi badan 160 cm atau lebih. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Momos udah diketahui gak pernah mutusin orang dengan alasan mau fokus UN yaa, artinya kita udah bisa simpulin <br>\n  bahwa Momos gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb071468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menikahi dia: <br>\n  lahir di bulan Januari dan jago masak. <br>\n  Jika Squidward tidak lahir di bulan Januari, maka Squidward tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menikahi dia, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus lahir di bulan Januari <br>\n  dan harus jago masak. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Squidward udah diketahui gak lahir di bulan Januari yaa, artinya kita udah bisa simpulin <br>\n  bahwa Squidward gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb072468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menjadi penyanyi: <br>\n  pernah sen kiri belok kanan dan jago matematika. <br>\n  Jika Nobita tidak pernah sen kiri belok kanan, maka Nobita tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi penyanyi, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus pernah sen kiri belok kanan <br>\n  dan harus jago matematika. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Nobita udah diketahui gak pernah sen kiri belok kanan yaa, artinya kita udah bisa simpulin <br>\n  bahwa Nobita gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb073468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menjadi pesulap: <br>\n  tertarik dengan drakor dan pernah nonton minimal 5 FTV Indonesia. <br>\n  Jika Memed tidak tertarik dengan drakor, maka Memed tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid" 0] [false "Tidak valid " 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi pesulap, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus tertarik dengan drakor <br>\n  dan harus pernah nonton minimal 5 FTV Indonesia. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Memed udah diketahui gak tertarik dengan drakor yaa, artinya kita udah bisa simpulin <br>\n  bahwa Memed gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb074468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk naik pesawat: <br>\n  lahir di bulan Januari dan suka makan bubur diaduk. <br>\n  Jika Hantu tidak lahir di bulan Januari, maka Hantu tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk naik pesawat, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus lahir di bulan Januari <br>\n  dan harus suka makan bubur diaduk. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Hantu udah diketahui gak lahir di bulan Januari yaa, artinya kita udah bisa simpulin <br>\n  bahwa Hantu gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb075468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menjadi penyanyi: <br>\n  pernah sen kiri belok kanan dan jago masak. <br>\n  Jika Maimunah tidak pernah sen kiri belok kanan, maka Maimunah tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi penyanyi, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus pernah sen kiri belok kanan <br>\n  dan harus jago masak. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Maimunah udah diketahui gak pernah sen kiri belok kanan yaa, artinya kita udah bisa simpulin <br>\n  bahwa Maimunah gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb076468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menikahi dia: <br>\n  pernah mutusin orang dengan alasan mau fokus UN dan jago masak. <br>\n  Jika Oncom tidak pernah mutusin orang dengan alasan mau fokus UN, maka Oncom tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid" 0] [false "Tidak valid " 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menikahi dia, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus pernah mutusin orang dengan alasan mau fokus UN <br>\n  dan harus jago masak. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Oncom udah diketahui gak pernah mutusin orang dengan alasan mau fokus UN yaa, artinya kita udah bisa simpulin <br>\n  bahwa Oncom gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb077468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menjadi presiden: <br>\n  pernah mendorong pintu bertuliskan pull/tarik dan pernah nonton minimal 5 FTV Indonesia. <br>\n  Jika Mamad tidak pernah mendorong pintu bertuliskan pull/tarik, maka Mamad tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid" 0] [false "Tidak valid " 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi presiden, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus pernah mendorong pintu bertuliskan pull/tarik <br>\n  dan harus pernah nonton minimal 5 FTV Indonesia. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Mamad udah diketahui gak pernah mendorong pintu bertuliskan pull/tarik yaa, artinya kita udah bisa simpulin <br>\n  bahwa Mamad gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb078468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk mendapatkan kulit ayam KFC gratis: <br>\n  pernah mutusin orang dengan alasan mau fokus UN dan pernah bolos sekolah. <br>\n  Jika Momos tidak pernah mutusin orang dengan alasan mau fokus UN, maka Momos tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid" 0] [false "Tidak valid " 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk mendapatkan kulit ayam KFC gratis, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus pernah mutusin orang dengan alasan mau fokus UN <br>\n  dan harus pernah bolos sekolah. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Momos udah diketahui gak pernah mutusin orang dengan alasan mau fokus UN yaa, artinya kita udah bisa simpulin <br>\n  bahwa Momos gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb079468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menjadi presiden: <br>\n  pernah sen kiri belok kanan dan suka makan bubur diaduk. <br>\n  Jika Oncom tidak pernah sen kiri belok kanan, maka Oncom tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi presiden, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus pernah sen kiri belok kanan <br>\n  dan harus suka makan bubur diaduk. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Oncom udah diketahui gak pernah sen kiri belok kanan yaa, artinya kita udah bisa simpulin <br>\n  bahwa Oncom gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb07a468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menjadi pacar dia: <br>\n  pernah masuk angin dan berusia 60 tahun atau lebih. <br>\n  Jika Mbakyul tidak pernah masuk angin, maka Mbakyul tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi pacar dia, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus pernah masuk angin <br>\n  dan harus berusia 60 tahun atau lebih. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Mbakyul udah diketahui gak pernah masuk angin yaa, artinya kita udah bisa simpulin <br>\n  bahwa Mbakyul gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb07b468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menikahi dia: <br>\n  tertarik dengan drakor dan suka makan bubur diaduk. <br>\n  Jika Unyil tidak tertarik dengan drakor, maka Unyil tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid" 0] [false "Tidak valid " 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menikahi dia, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus tertarik dengan drakor <br>\n  dan harus suka makan bubur diaduk. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Unyil udah diketahui gak tertarik dengan drakor yaa, artinya kita udah bisa simpulin <br>\n  bahwa Unyil gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb07c468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menjadi presiden: <br>\n  pernah sen kiri belok kanan dan pernah bolos sekolah. <br>\n  Jika Hantu tidak pernah sen kiri belok kanan, maka Hantu tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi presiden, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus pernah sen kiri belok kanan <br>\n  dan harus pernah bolos sekolah. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Hantu udah diketahui gak pernah sen kiri belok kanan yaa, artinya kita udah bisa simpulin <br>\n  bahwa Hantu gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb07d468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk diterima di kampus impian: <br>\n  pernah sen kanan belok kiri dan berkulit hijau muda. <br>\n  Jika Oncom tidak pernah sen kanan belok kiri, maka Oncom tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk diterima di kampus impian, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus pernah sen kanan belok kiri <br>\n  dan harus berkulit hijau muda. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Oncom udah diketahui gak pernah sen kanan belok kiri yaa, artinya kita udah bisa simpulin <br>\n  bahwa Oncom gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb07e468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk pulang kampung: <br>\n  pernah sen kiri belok kanan dan suka makan bubur diaduk. <br>\n  Jika Hantu tidak pernah sen kiri belok kanan, maka Hantu tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk pulang kampung, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus pernah sen kiri belok kanan <br>\n  dan harus suka makan bubur diaduk. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Hantu udah diketahui gak pernah sen kiri belok kanan yaa, artinya kita udah bisa simpulin <br>\n  bahwa Hantu gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb07f468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menjadi presiden: <br>\n  pernah sen kiri belok kanan dan berusia 60 tahun atau lebih. <br>\n  Jika Nobita tidak pernah sen kiri belok kanan, maka Nobita tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid" 0] [false "Tidak valid " 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi presiden, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus pernah sen kiri belok kanan <br>\n  dan harus berusia 60 tahun atau lebih. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Nobita udah diketahui gak pernah sen kiri belok kanan yaa, artinya kita udah bisa simpulin <br>\n  bahwa Nobita gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb080468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menjadi pacar dia: <br>\n  pernah masuk angin dan tahu minimal 5 judul sinetron Indonesia. <br>\n  Jika Mbakyul tidak pernah masuk angin, maka Mbakyul tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi pacar dia, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus pernah masuk angin <br>\n  dan harus tahu minimal 5 judul sinetron Indonesia. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Mbakyul udah diketahui gak pernah masuk angin yaa, artinya kita udah bisa simpulin <br>\n  bahwa Mbakyul gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb081468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menjadi pesulap: <br>\n  lahir di bulan Januari dan suka makan bubur diaduk. <br>\n  Jika Squidward tidak lahir di bulan Januari, maka Squidward tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid" 0] [false "Tidak valid " 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi pesulap, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus lahir di bulan Januari <br>\n  dan harus suka makan bubur diaduk. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Squidward udah diketahui gak lahir di bulan Januari yaa, artinya kita udah bisa simpulin <br>\n  bahwa Squidward gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb082468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menjadi penyanyi: <br>\n  pernah mutusin orang dengan alasan mau fokus UN dan selalu jujur. <br>\n  Jika Oncom tidak pernah mutusin orang dengan alasan mau fokus UN, maka Oncom tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi penyanyi, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus pernah mutusin orang dengan alasan mau fokus UN <br>\n  dan harus selalu jujur. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Oncom udah diketahui gak pernah mutusin orang dengan alasan mau fokus UN yaa, artinya kita udah bisa simpulin <br>\n  bahwa Oncom gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb083468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menjadi miss universe: <br>\n  pernah sen kanan belok kiri dan berkulit hijau muda. <br>\n  Jika Mbakyul tidak pernah sen kanan belok kiri, maka Mbakyul tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi miss universe, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus pernah sen kanan belok kiri <br>\n  dan harus berkulit hijau muda. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Mbakyul udah diketahui gak pernah sen kanan belok kiri yaa, artinya kita udah bisa simpulin <br>\n  bahwa Mbakyul gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb084468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menjadi miss universe: <br>\n  pernah sen kiri belok kanan dan pernah bolos sekolah. <br>\n  Jika Unyil tidak pernah sen kiri belok kanan, maka Unyil tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid" 0] [false "Tidak valid " 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi miss universe, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus pernah sen kiri belok kanan <br>\n  dan harus pernah bolos sekolah. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Unyil udah diketahui gak pernah sen kiri belok kanan yaa, artinya kita udah bisa simpulin <br>\n  bahwa Unyil gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb085468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk membeli ikan cupang: <br>\n  pernah sen kanan belok kiri dan pernah nonton minimal 5 FTV Indonesia. <br>\n  Jika Cendol tidak pernah sen kanan belok kiri, maka Cendol tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk membeli ikan cupang, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus pernah sen kanan belok kiri <br>\n  dan harus pernah nonton minimal 5 FTV Indonesia. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Cendol udah diketahui gak pernah sen kanan belok kiri yaa, artinya kita udah bisa simpulin <br>\n  bahwa Cendol gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb086468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menjual sepeda: <br>\n  fans Kpop dan tahu minimal 5 judul sinetron Indonesia. <br>\n  Jika Nobita tidak fans Kpop, maka Nobita tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid" 0] [false "Tidak valid " 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjual sepeda, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus fans Kpop <br>\n  dan harus tahu minimal 5 judul sinetron Indonesia. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Nobita udah diketahui gak fans Kpop yaa, artinya kita udah bisa simpulin <br>\n  bahwa Nobita gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb087468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menjual sepeda: <br>\n  pernah masuk angin dan pernah nonton minimal 5 FTV Indonesia. <br>\n  Jika Maimunah tidak pernah masuk angin, maka Maimunah tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjual sepeda, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus pernah masuk angin <br>\n  dan harus pernah nonton minimal 5 FTV Indonesia. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Maimunah udah diketahui gak pernah masuk angin yaa, artinya kita udah bisa simpulin <br>\n  bahwa Maimunah gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb088468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk naik pesawat: <br>\n  pernah masuk angin dan tahu minimal 5 judul sinetron Indonesia. <br>\n  Jika Unyil tidak pernah masuk angin, maka Unyil tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk naik pesawat, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus pernah masuk angin <br>\n  dan harus tahu minimal 5 judul sinetron Indonesia. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Unyil udah diketahui gak pernah masuk angin yaa, artinya kita udah bisa simpulin <br>\n  bahwa Unyil gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb089468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menjadi penyanyi: <br>\n  lahir di bulan Januari dan memiliki tinggi badan 160 cm atau lebih. <br>\n  Jika Memed tidak lahir di bulan Januari, maka Memed tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi penyanyi, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus lahir di bulan Januari <br>\n  dan harus memiliki tinggi badan 160 cm atau lebih. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Memed udah diketahui gak lahir di bulan Januari yaa, artinya kita udah bisa simpulin <br>\n  bahwa Memed gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb08a468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menjadi miss universe: <br>\n  fans Kpop dan jago matematika. <br>\n  Jika Unyil tidak fans Kpop, maka Unyil tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi miss universe, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus fans Kpop <br>\n  dan harus jago matematika. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Unyil udah diketahui gak fans Kpop yaa, artinya kita udah bisa simpulin <br>\n  bahwa Unyil gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb08b468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk membeli ikan cupang: <br>\n  lahir di bulan Januari dan pernah bolos sekolah. <br>\n  Jika Momos tidak lahir di bulan Januari, maka Momos tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid" 0] [false "Tidak valid " 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk membeli ikan cupang, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus lahir di bulan Januari <br>\n  dan harus pernah bolos sekolah. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Momos udah diketahui gak lahir di bulan Januari yaa, artinya kita udah bisa simpulin <br>\n  bahwa Momos gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb08c468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk mendapatkan kulit ayam KFC gratis: <br>\n  lahir di bulan Januari dan selalu jujur. <br>\n  Jika Momos tidak lahir di bulan Januari, maka Momos tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid" 0] [false "Tidak valid " 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk mendapatkan kulit ayam KFC gratis, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus lahir di bulan Januari <br>\n  dan harus selalu jujur. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Momos udah diketahui gak lahir di bulan Januari yaa, artinya kita udah bisa simpulin <br>\n  bahwa Momos gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb08d468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menjadi penyanyi: <br>\n  lahir di bulan Januari dan selalu jujur. <br>\n  Jika Oncom tidak lahir di bulan Januari, maka Oncom tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi penyanyi, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus lahir di bulan Januari <br>\n  dan harus selalu jujur. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Oncom udah diketahui gak lahir di bulan Januari yaa, artinya kita udah bisa simpulin <br>\n  bahwa Oncom gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb08e468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menjadi miss universe: <br>\n  pernah mendorong pintu bertuliskan pull/tarik dan pernah nonton minimal 5 FTV Indonesia. <br>\n  Jika Momos tidak pernah mendorong pintu bertuliskan pull/tarik, maka Momos tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi miss universe, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus pernah mendorong pintu bertuliskan pull/tarik <br>\n  dan harus pernah nonton minimal 5 FTV Indonesia. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Momos udah diketahui gak pernah mendorong pintu bertuliskan pull/tarik yaa, artinya kita udah bisa simpulin <br>\n  bahwa Momos gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb08f468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk mendapatkan kulit ayam KFC gratis: <br>\n  tertarik dengan drakor dan selalu jujur. <br>\n  Jika Momos tidak tertarik dengan drakor, maka Momos tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk mendapatkan kulit ayam KFC gratis, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus tertarik dengan drakor <br>\n  dan harus selalu jujur. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Momos udah diketahui gak tertarik dengan drakor yaa, artinya kita udah bisa simpulin <br>\n  bahwa Momos gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb090468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menjadi pesulap: <br>\n  lahir di bulan Januari dan tahu minimal 5 judul sinetron Indonesia. <br>\n  Jika Oncom tidak lahir di bulan Januari, maka Oncom tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid" 0] [false "Tidak valid " 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi pesulap, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus lahir di bulan Januari <br>\n  dan harus tahu minimal 5 judul sinetron Indonesia. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Oncom udah diketahui gak lahir di bulan Januari yaa, artinya kita udah bisa simpulin <br>\n  bahwa Oncom gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb091468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menjadi miss universe: <br>\n  lahir di bulan Januari dan jago masak. <br>\n  Jika Oncom tidak lahir di bulan Januari, maka Oncom tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi miss universe, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus lahir di bulan Januari <br>\n  dan harus jago masak. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Oncom udah diketahui gak lahir di bulan Januari yaa, artinya kita udah bisa simpulin <br>\n  bahwa Oncom gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb092468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk pulang kampung: <br>\n  fans Kpop dan berkulit hijau muda. <br>\n  Jika Squidward tidak fans Kpop, maka Squidward tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk pulang kampung, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus fans Kpop <br>\n  dan harus berkulit hijau muda. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Squidward udah diketahui gak fans Kpop yaa, artinya kita udah bisa simpulin <br>\n  bahwa Squidward gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb093468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk naik pesawat: <br>\n  fans Kpop dan selalu jujur. <br>\n  Jika Unyil tidak fans Kpop, maka Unyil tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid" 0] [false "Tidak valid " 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk naik pesawat, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus fans Kpop <br>\n  dan harus selalu jujur. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Unyil udah diketahui gak fans Kpop yaa, artinya kita udah bisa simpulin <br>\n  bahwa Unyil gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb094468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk membeli ikan cupang: <br>\n  fans Kpop dan berusia 60 tahun atau lebih. <br>\n  Jika Memed tidak fans Kpop, maka Memed tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid" 0] [false "Tidak valid " 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk membeli ikan cupang, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus fans Kpop <br>\n  dan harus berusia 60 tahun atau lebih. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Memed udah diketahui gak fans Kpop yaa, artinya kita udah bisa simpulin <br>\n  bahwa Memed gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb095468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menikahi dia: <br>\n  fans Kpop dan jago matematika. <br>\n  Jika Jon tidak fans Kpop, maka Jon tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid" 0] [false "Tidak valid " 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menikahi dia, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus fans Kpop <br>\n  dan harus jago matematika. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Jon udah diketahui gak fans Kpop yaa, artinya kita udah bisa simpulin <br>\n  bahwa Jon gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb096468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk pulang kampung: <br>\n  pernah mutusin orang dengan alasan mau fokus UN dan jago masak. <br>\n  Jika Jon tidak pernah mutusin orang dengan alasan mau fokus UN, maka Jon tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk pulang kampung, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus pernah mutusin orang dengan alasan mau fokus UN <br>\n  dan harus jago masak. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Jon udah diketahui gak pernah mutusin orang dengan alasan mau fokus UN yaa, artinya kita udah bisa simpulin <br>\n  bahwa Jon gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb097468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk mendapatkan kulit ayam KFC gratis: <br>\n  pernah mendorong pintu bertuliskan pull/tarik dan berkulit hijau muda. <br>\n  Jika Ucup tidak pernah mendorong pintu bertuliskan pull/tarik, maka Ucup tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk mendapatkan kulit ayam KFC gratis, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus pernah mendorong pintu bertuliskan pull/tarik <br>\n  dan harus berkulit hijau muda. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Ucup udah diketahui gak pernah mendorong pintu bertuliskan pull/tarik yaa, artinya kita udah bisa simpulin <br>\n  bahwa Ucup gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb098468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk mendapatkan kulit ayam KFC gratis: <br>\n  pernah sen kiri belok kanan dan suka makan bubur diaduk. <br>\n  Jika Mbakyul tidak pernah sen kiri belok kanan, maka Mbakyul tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk mendapatkan kulit ayam KFC gratis, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus pernah sen kiri belok kanan <br>\n  dan harus suka makan bubur diaduk. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Mbakyul udah diketahui gak pernah sen kiri belok kanan yaa, artinya kita udah bisa simpulin <br>\n  bahwa Mbakyul gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb099468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk diterima di kampus impian: <br>\n  pernah mutusin orang dengan alasan mau fokus UN dan berusia 60 tahun atau lebih. <br>\n  Jika Jon tidak pernah mutusin orang dengan alasan mau fokus UN, maka Jon tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk diterima di kampus impian, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus pernah mutusin orang dengan alasan mau fokus UN <br>\n  dan harus berusia 60 tahun atau lebih. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Jon udah diketahui gak pernah mutusin orang dengan alasan mau fokus UN yaa, artinya kita udah bisa simpulin <br>\n  bahwa Jon gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb09a468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk mendapatkan kulit ayam KFC gratis: <br>\n  tertarik dengan drakor dan jago matematika. <br>\n  Jika Mbakyul tidak tertarik dengan drakor, maka Mbakyul tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid" 0] [false "Tidak valid " 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk mendapatkan kulit ayam KFC gratis, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus tertarik dengan drakor <br>\n  dan harus jago matematika. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Mbakyul udah diketahui gak tertarik dengan drakor yaa, artinya kita udah bisa simpulin <br>\n  bahwa Mbakyul gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb09b468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menjadi presiden: <br>\n  fans Kpop dan tahu minimal 5 judul sinetron Indonesia. <br>\n  Jika Maimunah tidak fans Kpop, maka Maimunah tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi presiden, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus fans Kpop <br>\n  dan harus tahu minimal 5 judul sinetron Indonesia. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Maimunah udah diketahui gak fans Kpop yaa, artinya kita udah bisa simpulin <br>\n  bahwa Maimunah gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb09c468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk mendapatkan kulit ayam KFC gratis: <br>\n  lahir di bulan Januari dan selalu jujur. <br>\n  Jika Nobita tidak lahir di bulan Januari, maka Nobita tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid" 0] [false "Tidak valid " 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk mendapatkan kulit ayam KFC gratis, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus lahir di bulan Januari <br>\n  dan harus selalu jujur. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Nobita udah diketahui gak lahir di bulan Januari yaa, artinya kita udah bisa simpulin <br>\n  bahwa Nobita gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb09d468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menjadi pacar dia: <br>\n  lahir di bulan Januari dan selalu jujur. <br>\n  Jika Cendol tidak lahir di bulan Januari, maka Cendol tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid" 0] [false "Tidak valid " 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi pacar dia, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus lahir di bulan Januari <br>\n  dan harus selalu jujur. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Cendol udah diketahui gak lahir di bulan Januari yaa, artinya kita udah bisa simpulin <br>\n  bahwa Cendol gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb09e468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menjadi pesulap: <br>\n  pernah sen kiri belok kanan dan tahu minimal 5 judul sinetron Indonesia. <br>\n  Jika Mbakyul tidak pernah sen kiri belok kanan, maka Mbakyul tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi pesulap, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus pernah sen kiri belok kanan <br>\n  dan harus tahu minimal 5 judul sinetron Indonesia. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Mbakyul udah diketahui gak pernah sen kiri belok kanan yaa, artinya kita udah bisa simpulin <br>\n  bahwa Mbakyul gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb09f468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk menjadi miss universe: <br>\n  lahir di bulan Januari dan tahu minimal 5 judul sinetron Indonesia. <br>\n  Jika Maimunah tidak lahir di bulan Januari, maka Maimunah tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid" 0] [false "Tidak valid " 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi miss universe, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus lahir di bulan Januari <br>\n  dan harus tahu minimal 5 judul sinetron Indonesia. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Maimunah udah diketahui gak lahir di bulan Januari yaa, artinya kita udah bisa simpulin <br>\n  bahwa Maimunah gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb0a0468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk naik pesawat: <br>\n  pernah sen kiri belok kanan dan pernah nonton minimal 5 FTV Indonesia. <br>\n  Jika Oncom tidak pernah sen kiri belok kanan, maka Oncom tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk naik pesawat, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus pernah sen kiri belok kanan <br>\n  dan harus pernah nonton minimal 5 FTV Indonesia. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Oncom udah diketahui gak pernah sen kiri belok kanan yaa, artinya kita udah bisa simpulin <br>\n  bahwa Oncom gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb0a1468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk membeli ikan cupang: <br>\n  pernah mendorong pintu bertuliskan pull/tarik dan berusia 60 tahun atau lebih. <br>\n  Jika Momos tidak pernah mendorong pintu bertuliskan pull/tarik, maka Momos tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid" 0] [false "Tidak valid " 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk membeli ikan cupang, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus pernah mendorong pintu bertuliskan pull/tarik <br>\n  dan harus berusia 60 tahun atau lebih. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Momos udah diketahui gak pernah mendorong pintu bertuliskan pull/tarik yaa, artinya kita udah bisa simpulin <br>\n  bahwa Momos gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb0a2468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\n  Berikut adalah persyaratan untuk pulang kampung: <br>\n  tertarik dengan drakor dan berusia 60 tahun atau lebih. <br>\n  Jika Nobita tidak tertarik dengan drakor, maka Nobita tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false "Tidak valid " 0] [true "Valid" 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\n  Kata \"DAN\" yang ada di antara kedua syarat menunjukkan bahwa untuk pulang kampung, <br>\n  suatu entitas harus memenuhi dua syarat yang ada. Jadi, dia harus tertarik dengan drakor <br>\n  dan harus berusia 60 tahun atau lebih. Gak bisa salah satu doang yang terpenuhi gituu. <br>\n  Nah kan Nobita udah diketahui gak tertarik dengan drakor yaa, artinya kita udah bisa simpulin <br>\n  bahwa Nobita gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d27e00d0448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "569fb0a3468611eba53b81e59324e143"}]

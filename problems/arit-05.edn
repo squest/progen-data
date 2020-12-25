@@ -1,0 +1,1440 @@
+[{:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    7 + ____ = 19 <br>\n</p>\n\n",
+   :options
+   [[false "10 " 0]
+    [false "11" 1]
+    [true "12 " 2]
+    [false "14 " 3]
+    [false "13 " 4]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 19 - 7 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846010468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    3 + ____ = 23 <br>\n</p>\n\n",
+   :options
+   [[false "17 " 0]
+    [false "19 " 1]
+    [false "21" 2]
+    [true "20 " 3]
+    [false "22 " 4]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 23 - 3 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846011468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    6 + ____ = 13 <br>\n</p>\n\n",
+   :options
+   [[false "9 " 0]
+    [false "8 " 1]
+    [true "7 " 2]
+    [false "4" 3]
+    [false "6 " 4]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 13 - 6 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846012468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    8 + ____ = 15 <br>\n</p>\n\n",
+   :options
+   [[false "6 " 0]
+    [false "4 " 1]
+    [false "8 " 2]
+    [false "9" 3]
+    [true "7 " 4]],
+   :jawaban "E"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 15 - 8 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846013468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    8 + ____ = 22 <br>\n</p>\n\n",
+   :options
+   [[false "11" 0]
+    [false "13 " 1]
+    [false "15 " 2]
+    [false "12 " 3]
+    [true "14 " 4]],
+   :jawaban "E"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 22 - 8 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846014468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    4 + ____ = 15 <br>\n</p>\n\n",
+   :options
+   [[true "11 " 0]
+    [false "8 " 1]
+    [false "13 " 2]
+    [false "9" 3]
+    [false "12 " 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 15 - 4 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846015468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    5 + ____ = 20 <br>\n</p>\n\n",
+   :options
+   [[false "12" 0]
+    [false "16 " 1]
+    [false "17 " 2]
+    [true "15 " 3]
+    [false "14 " 4]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 20 - 5 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846016468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    4 + ____ = 19 <br>\n</p>\n\n",
+   :options
+   [[false "14 " 0]
+    [false "17 " 1]
+    [false "13 " 2]
+    [true "15 " 3]
+    [false "12" 4]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 19 - 4 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846017468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    6 + ____ = 16 <br>\n</p>\n\n",
+   :options
+   [[false "12 " 0]
+    [true "10 " 1]
+    [false "11 " 2]
+    [false "9 " 3]
+    [false "7" 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 16 - 6 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846018468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    8 + ____ = 21 <br>\n</p>\n\n",
+   :options
+   [[false "12 " 0]
+    [false "14 " 1]
+    [false "11" 2]
+    [false "10 " 3]
+    [true "13 " 4]],
+   :jawaban "E"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 21 - 8 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846019468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    4 + ____ = 20 <br>\n</p>\n\n",
+   :options
+   [[false "14" 0]
+    [false "15 " 1]
+    [false "13 " 2]
+    [false "17 " 3]
+    [true "16 " 4]],
+   :jawaban "E"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 20 - 4 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "5684601a468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    2 + ____ = 21 <br>\n</p>\n\n",
+   :options
+   [[false "21 " 0]
+    [false "18" 1]
+    [false "17 " 2]
+    [true "19 " 3]
+    [false "20 " 4]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 21 - 2 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "5684601b468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    9 + ____ = 18 <br>\n</p>\n\n",
+   :options
+   [[false "10 " 0]
+    [true "9 " 1]
+    [false "11 " 2]
+    [false "6 " 3]
+    [false "8" 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 18 - 9 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "5684601c468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    4 + ____ = 18 <br>\n</p>\n\n",
+   :options
+   [[true "14 " 0]
+    [false "11 " 1]
+    [false "15 " 2]
+    [false "13 " 3]
+    [false "12" 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 18 - 4 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "5684601d468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    9 + ____ = 21 <br>\n</p>\n\n",
+   :options
+   [[false "9 " 0]
+    [false "13 " 1]
+    [false "10" 2]
+    [true "12 " 3]
+    [false "14 " 4]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 21 - 9 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "5684601e468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    9 + ____ = 19 <br>\n</p>\n\n",
+   :options
+   [[false "9 " 0]
+    [true "10 " 1]
+    [false "8 " 2]
+    [false "11" 3]
+    [false "7 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 19 - 9 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "5684601f468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    7 + ____ = 13 <br>\n</p>\n\n",
+   :options
+   [[false "3 " 0]
+    [false "5 " 1]
+    [false "4" 2]
+    [true "6 " 3]
+    [false "7 " 4]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 13 - 7 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846020468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    8 + ____ = 24 <br>\n</p>\n\n",
+   :options
+   [[false "13 " 0]
+    [false "15" 1]
+    [false "17 " 2]
+    [false "14 " 3]
+    [true "16 " 4]],
+   :jawaban "E"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 24 - 8 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846021468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    8 + ____ = 13 <br>\n</p>\n\n",
+   :options
+   [[false "4" 0]
+    [true "5 " 1]
+    [false "3 " 2]
+    [false "2 " 3]
+    [false "6 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 13 - 8 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846022468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    6 + ____ = 19 <br>\n</p>\n\n",
+   :options
+   [[false "11 " 0]
+    [true "13 " 1]
+    [false "15 " 2]
+    [false "12" 3]
+    [false "10 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 19 - 6 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846023468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    3 + ____ = 18 <br>\n</p>\n\n",
+   :options
+   [[false "12 " 0]
+    [false "17 " 1]
+    [false "13 " 2]
+    [false "16" 3]
+    [true "15 " 4]],
+   :jawaban "E"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 18 - 3 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846024468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    4 + ____ = 14 <br>\n</p>\n\n",
+   :options
+   [[false "8 " 0]
+    [true "10 " 1]
+    [false "11" 2]
+    [false "7 " 3]
+    [false "12 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 14 - 4 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846025468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    6 + ____ = 15 <br>\n</p>\n\n",
+   :options
+   [[false "11 " 0]
+    [false "7 " 1]
+    [true "9 " 2]
+    [false "6" 3]
+    [false "10 " 4]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 15 - 6 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846026468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    7 + ____ = 20 <br>\n</p>\n\n",
+   :options
+   [[false "14 " 0]
+    [false "15 " 1]
+    [true "13 " 2]
+    [false "10" 3]
+    [false "12 " 4]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 20 - 7 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846027468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    4 + ____ = 23 <br>\n</p>\n\n",
+   :options
+   [[false "17 " 0]
+    [false "18 " 1]
+    [true "19 " 2]
+    [false "21 " 3]
+    [false "20" 4]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 23 - 4 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846028468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    7 + ____ = 15 <br>\n</p>\n\n",
+   :options
+   [[false "6 " 0]
+    [false "9 " 1]
+    [true "8 " 2]
+    [false "10" 3]
+    [false "5 " 4]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 15 - 7 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846029468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    7 + ____ = 18 <br>\n</p>\n\n",
+   :options
+   [[true "11 " 0]
+    [false "8" 1]
+    [false "9 " 2]
+    [false "10 " 3]
+    [false "12 " 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 18 - 7 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "5684602a468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    9 + ____ = 15 <br>\n</p>\n\n",
+   :options
+   [[false "4 " 0]
+    [true "6 " 1]
+    [false "5" 2]
+    [false "8 " 3]
+    [false "7 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 15 - 9 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "5684602b468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    6 + ____ = 20 <br>\n</p>\n\n",
+   :options
+   [[false "13 " 0]
+    [false "15 " 1]
+    [false "12 " 2]
+    [false "16" 3]
+    [true "14 " 4]],
+   :jawaban "E"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 20 - 6 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "5684602c468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    8 + ____ = 18 <br>\n</p>\n\n",
+   :options
+   [[false "12 " 0]
+    [false "8 " 1]
+    [true "10 " 2]
+    [false "7 " 3]
+    [false "11" 4]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 18 - 8 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "5684602d468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    6 + ____ = 17 <br>\n</p>\n\n",
+   :options
+   [[false "9 " 0]
+    [false "13 " 1]
+    [true "11 " 2]
+    [false "12 " 3]
+    [false "8" 4]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 17 - 6 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "5684602e468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    5 + ____ = 18 <br>\n</p>\n\n",
+   :options
+   [[false "14 " 0]
+    [false "12 " 1]
+    [false "15 " 2]
+    [false "11" 3]
+    [true "13 " 4]],
+   :jawaban "E"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 18 - 5 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "5684602f468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    5 + ____ = 17 <br>\n</p>\n\n",
+   :options
+   [[false "10" 0]
+    [false "14 " 1]
+    [false "9 " 2]
+    [false "13 " 3]
+    [true "12 " 4]],
+   :jawaban "E"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 17 - 5 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846030468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    9 + ____ = 22 <br>\n</p>\n\n",
+   :options
+   [[true "13 " 0]
+    [false "11" 1]
+    [false "12 " 2]
+    [false "15 " 3]
+    [false "14 " 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 22 - 9 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846031468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    2 + ____ = 15 <br>\n</p>\n\n",
+   :options
+   [[false "15 " 0]
+    [false "10 " 1]
+    [false "11 " 2]
+    [true "13 " 3]
+    [false "12" 4]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 15 - 2 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846032468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    4 + ____ = 13 <br>\n</p>\n\n",
+   :options
+   [[false "10" 0]
+    [false "8 " 1]
+    [false "7 " 2]
+    [true "9 " 3]
+    [false "11 " 4]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 13 - 4 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846033468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    2 + ____ = 14 <br>\n</p>\n\n",
+   :options
+   [[false "11 " 0]
+    [true "12 " 1]
+    [false "10 " 2]
+    [false "14" 3]
+    [false "9 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 14 - 2 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846034468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    7 + ____ = 21 <br>\n</p>\n\n",
+   :options
+   [[false "11 " 0]
+    [false "15" 1]
+    [false "13 " 2]
+    [true "14 " 3]
+    [false "16 " 4]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 21 - 7 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846035468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    4 + ____ = 22 <br>\n</p>\n\n",
+   :options
+   [[false "16 " 0]
+    [false "20 " 1]
+    [false "17 " 2]
+    [true "18 " 3]
+    [false "19" 4]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 22 - 4 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846036468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    9 + ____ = 16 <br>\n</p>\n\n",
+   :options
+   [[false "8 " 0]
+    [true "7 " 1]
+    [false "5" 2]
+    [false "9 " 3]
+    [false "6 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 16 - 9 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846037468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    9 + ____ = 24 <br>\n</p>\n\n",
+   :options
+   [[false "16 " 0]
+    [false "13" 1]
+    [false "17 " 2]
+    [true "15 " 3]
+    [false "12 " 4]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 24 - 9 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846038468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    2 + ____ = 19 <br>\n</p>\n\n",
+   :options
+   [[false "18" 0]
+    [false "16 " 1]
+    [false "19 " 2]
+    [true "17 " 3]
+    [false "14 " 4]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 19 - 2 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846039468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    5 + ____ = 19 <br>\n</p>\n\n",
+   :options
+   [[false "16 " 0]
+    [false "11" 1]
+    [true "14 " 2]
+    [false "13 " 3]
+    [false "15 " 4]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 19 - 5 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "5684603a468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    3 + ____ = 21 <br>\n</p>\n\n",
+   :options
+   [[true "18 " 0]
+    [false "17" 1]
+    [false "19 " 2]
+    [false "16 " 3]
+    [false "20 " 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 21 - 3 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "5684603b468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    3 + ____ = 16 <br>\n</p>\n\n",
+   :options
+   [[false "15 " 0]
+    [true "13 " 1]
+    [false "10 " 2]
+    [false "11" 3]
+    [false "12 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 16 - 3 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "5684603c468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    3 + ____ = 22 <br>\n</p>\n\n",
+   :options
+   [[false "17 " 0]
+    [false "20 " 1]
+    [false "21 " 2]
+    [false "16" 3]
+    [true "19 " 4]],
+   :jawaban "E"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 22 - 3 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "5684603d468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    7 + ____ = 16 <br>\n</p>\n\n",
+   :options
+   [[false "10 " 0]
+    [false "11 " 1]
+    [false "7 " 2]
+    [false "8" 3]
+    [true "9 " 4]],
+   :jawaban "E"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 16 - 7 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "5684603e468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    5 + ____ = 22 <br>\n</p>\n\n",
+   :options
+   [[false "14 " 0]
+    [true "17 " 1]
+    [false "15 " 2]
+    [false "18 " 3]
+    [false "19" 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 22 - 5 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "5684603f468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    3 + ____ = 17 <br>\n</p>\n\n",
+   :options
+   [[false "16 " 0]
+    [false "13" 1]
+    [true "14 " 2]
+    [false "12 " 3]
+    [false "15 " 4]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 17 - 3 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846040468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    3 + ____ = 24 <br>\n</p>\n\n",
+   :options
+   [[true "21 " 0]
+    [false "20 " 1]
+    [false "19 " 2]
+    [false "22 " 3]
+    [false "18" 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 24 - 3 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846041468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    4 + ____ = 17 <br>\n</p>\n\n",
+   :options
+   [[true "13 " 0]
+    [false "11 " 1]
+    [false "10" 2]
+    [false "14 " 3]
+    [false "15 " 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 17 - 4 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846042468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    7 + ____ = 22 <br>\n</p>\n\n",
+   :options
+   [[false "17 " 0]
+    [false "12 " 1]
+    [false "16" 2]
+    [true "15 " 3]
+    [false "14 " 4]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 22 - 7 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846043468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    5 + ____ = 14 <br>\n</p>\n\n",
+   :options
+   [[false "6 " 0]
+    [false "8 " 1]
+    [false "10" 2]
+    [true "9 " 3]
+    [false "7 " 4]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 14 - 5 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846044468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    8 + ____ = 14 <br>\n</p>\n\n",
+   :options
+   [[false "5 " 0]
+    [false "4 " 1]
+    [true "6 " 2]
+    [false "8 " 3]
+    [false "3" 4]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 14 - 8 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846045468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    5 + ____ = 16 <br>\n</p>\n\n",
+   :options
+   [[false "9" 0]
+    [false "8 " 1]
+    [false "12 " 2]
+    [true "11 " 3]
+    [false "10 " 4]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 16 - 5 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846046468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    2 + ____ = 17 <br>\n</p>\n\n",
+   :options
+   [[false "16 " 0]
+    [false "14" 1]
+    [false "13 " 2]
+    [false "12 " 3]
+    [true "15 " 4]],
+   :jawaban "E"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 17 - 2 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846047468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    3 + ____ = 20 <br>\n</p>\n\n",
+   :options
+   [[true "17 " 0]
+    [false "16 " 1]
+    [false "19 " 2]
+    [false "14" 3]
+    [false "18 " 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 20 - 3 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846048468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    5 + ____ = 13 <br>\n</p>\n\n",
+   :options
+   [[false "9 " 0]
+    [false "5" 1]
+    [true "8 " 2]
+    [false "10 " 3]
+    [false "6 " 4]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 13 - 5 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846049468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    5 + ____ = 15 <br>\n</p>\n\n",
+   :options
+   [[true "10 " 0]
+    [false "7 " 1]
+    [false "9" 2]
+    [false "11 " 3]
+    [false "12 " 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 15 - 5 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "5684604a468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    9 + ____ = 17 <br>\n</p>\n\n",
+   :options
+   [[false "9 " 0]
+    [false "10" 1]
+    [true "8 " 2]
+    [false "5 " 3]
+    [false "7 " 4]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 17 - 9 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "5684604b468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    8 + ____ = 19 <br>\n</p>\n\n",
+   :options
+   [[false "9 " 0]
+    [false "10" 1]
+    [false "13 " 2]
+    [true "11 " 3]
+    [false "8 " 4]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 19 - 8 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "5684604c468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    2 + ____ = 23 <br>\n</p>\n\n",
+   :options
+   [[false "22 " 0]
+    [false "23" 1]
+    [false "20 " 2]
+    [true "21 " 3]
+    [false "19 " 4]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 23 - 2 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "5684604d468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    6 + ____ = 24 <br>\n</p>\n\n",
+   :options
+   [[true "18 " 0]
+    [false "15" 1]
+    [false "20 " 2]
+    [false "16 " 3]
+    [false "17 " 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 24 - 6 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "5684604e468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    2 + ____ = 24 <br>\n</p>\n\n",
+   :options
+   [[false "23 " 0]
+    [false "19" 1]
+    [false "21 " 2]
+    [true "22 " 3]
+    [false "20 " 4]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 24 - 2 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "5684604f468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    2 + ____ = 22 <br>\n</p>\n\n",
+   :options
+   [[true "20 " 0]
+    [false "19 " 1]
+    [false "17 " 2]
+    [false "18" 3]
+    [false "22 " 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 22 - 2 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846050468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    2 + ____ = 18 <br>\n</p>\n\n",
+   :options
+   [[false "18 " 0]
+    [false "13" 1]
+    [true "16 " 2]
+    [false "17 " 3]
+    [false "15 " 4]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 18 - 2 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846051468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    9 + ____ = 23 <br>\n</p>\n\n",
+   :options
+   [[false "12 " 0]
+    [true "14 " 1]
+    [false "11" 2]
+    [false "15 " 3]
+    [false "16 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 23 - 9 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846052468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    5 + ____ = 21 <br>\n</p>\n\n",
+   :options
+   [[false "14 " 0]
+    [true "16 " 1]
+    [false "15" 2]
+    [false "13 " 3]
+    [false "17 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 21 - 5 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846053468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    7 + ____ = 23 <br>\n</p>\n\n",
+   :options
+   [[true "16 " 0]
+    [false "18 " 1]
+    [false "17 " 2]
+    [false "15" 3]
+    [false "14 " 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 23 - 7 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846054468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    6 + ____ = 21 <br>\n</p>\n\n",
+   :options
+   [[false "13" 0]
+    [false "14 " 1]
+    [false "16 " 2]
+    [true "15 " 3]
+    [false "12 " 4]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 21 - 6 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846055468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    6 + ____ = 23 <br>\n</p>\n\n",
+   :options
+   [[false "16" 0]
+    [false "14 " 1]
+    [false "15 " 2]
+    [true "17 " 3]
+    [false "18 " 4]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 23 - 6 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846056468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    6 + ____ = 22 <br>\n</p>\n\n",
+   :options
+   [[false "13 " 0]
+    [true "16 " 1]
+    [false "18" 2]
+    [false "17 " 3]
+    [false "14 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 22 - 6 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846057468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    2 + ____ = 20 <br>\n</p>\n\n",
+   :options
+   [[false "17" 0]
+    [false "20 " 1]
+    [true "18 " 2]
+    [false "15 " 3]
+    [false "19 " 4]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 20 - 2 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846058468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    6 + ____ = 14 <br>\n</p>\n\n",
+   :options
+   [[false "10 " 0]
+    [false "5" 1]
+    [false "9 " 2]
+    [true "8 " 3]
+    [false "6 " 4]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 14 - 6 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846059468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    2 + ____ = 13 <br>\n</p>\n\n",
+   :options
+   [[false "10 " 0]
+    [false "8 " 1]
+    [true "11 " 2]
+    [false "12" 3]
+    [false "9 " 4]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 13 - 2 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "5684605a468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    8 + ____ = 23 <br>\n</p>\n\n",
+   :options
+   [[true "15 " 0]
+    [false "14" 1]
+    [false "16 " 2]
+    [false "17 " 3]
+    [false "12 " 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 23 - 8 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "5684605b468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    9 + ____ = 20 <br>\n</p>\n\n",
+   :options
+   [[false "8 " 0]
+    [false "13 " 1]
+    [false "10 " 2]
+    [false "12" 3]
+    [true "11 " 4]],
+   :jawaban "E"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 20 - 9 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "5684605c468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    3 + ____ = 14 <br>\n</p>\n\n",
+   :options
+   [[true "11 " 0]
+    [false "13 " 1]
+    [false "9 " 2]
+    [false "10" 3]
+    [false "8 " 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 14 - 3 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "5684605d468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    4 + ____ = 21 <br>\n</p>\n\n",
+   :options
+   [[false "15 " 0]
+    [false "16" 1]
+    [false "14 " 2]
+    [false "19 " 3]
+    [true "17 " 4]],
+   :jawaban "E"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 21 - 4 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "5684605e468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    8 + ____ = 17 <br>\n</p>\n\n",
+   :options
+   [[false "10 " 0]
+    [false "7 " 1]
+    [false "6" 2]
+    [false "11 " 3]
+    [true "9 " 4]],
+   :jawaban "E"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 17 - 8 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "5684605f468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    4 + ____ = 24 <br>\n</p>\n\n",
+   :options
+   [[true "20 " 0]
+    [false "19 " 1]
+    [false "22" 2]
+    [false "18 " 3]
+    [false "21 " 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 24 - 4 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846060468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    7 + ____ = 17 <br>\n</p>\n\n",
+   :options
+   [[true "10 " 0]
+    [false "11 " 1]
+    [false "7" 2]
+    [false "8 " 3]
+    [false "12 " 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 17 - 7 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846061468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    3 + ____ = 13 <br>\n</p>\n\n",
+   :options
+   [[false "11" 0]
+    [true "10 " 1]
+    [false "7 " 2]
+    [false "8 " 3]
+    [false "9 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 13 - 3 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846062468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    5 + ____ = 24 <br>\n</p>\n\n",
+   :options
+   [[false "18 " 0]
+    [false "21 " 1]
+    [true "19 " 2]
+    [false "17 " 3]
+    [false "16" 4]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 24 - 5 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846063468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    3 + ____ = 15 <br>\n</p>\n\n",
+   :options
+   [[false "13 " 0]
+    [false "14 " 1]
+    [false "10" 2]
+    [false "9 " 3]
+    [true "12 " 4]],
+   :jawaban "E"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 15 - 3 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846064468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    7 + ____ = 24 <br>\n</p>\n\n",
+   :options
+   [[false "18 " 0]
+    [false "15" 1]
+    [false "19 " 2]
+    [false "16 " 3]
+    [true "17 " 4]],
+   :jawaban "E"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 24 - 7 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846065468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    5 + ____ = 23 <br>\n</p>\n\n",
+   :options
+   [[false "20" 0]
+    [false "19 " 1]
+    [false "17 " 2]
+    [true "18 " 3]
+    [false "15 " 4]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 23 - 5 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846066468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    4 + ____ = 16 <br>\n</p>\n\n",
+   :options
+   [[false "10 " 0]
+    [true "12 " 1]
+    [false "14 " 2]
+    [false "9" 3]
+    [false "13 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 16 - 4 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846067468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    2 + ____ = 16 <br>\n</p>\n\n",
+   :options
+   [[false "11 " 0]
+    [false "13 " 1]
+    [false "16" 2]
+    [true "14 " 3]
+    [false "15 " 4]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 16 - 2 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846068468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    6 + ____ = 18 <br>\n</p>\n\n",
+   :options
+   [[false "9 " 0]
+    [false "10 " 1]
+    [false "14" 2]
+    [true "12 " 3]
+    [false "13 " 4]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 18 - 6 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "56846069468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    8 + ____ = 16 <br>\n</p>\n\n",
+   :options
+   [[false "7 " 0]
+    [false "10 " 1]
+    [true "8 " 2]
+    [false "6" 3]
+    [false "5 " 4]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 16 - 8 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "5684606a468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    3 + ____ = 19 <br>\n</p>\n\n",
+   :options
+   [[false "14 " 0]
+    [false "17" 1]
+    [false "13 " 2]
+    [true "16 " 3]
+    [false "15 " 4]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 19 - 3 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "5684606b468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    9 + ____ = 14 <br>\n</p>\n\n",
+   :options
+   [[true "5 " 0]
+    [false "7 " 1]
+    [false "2 " 2]
+    [false "4" 3]
+    [false "6 " 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 14 - 9 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "5684606c468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    8 + ____ = 20 <br>\n</p>\n\n",
+   :options
+   [[false "10" 0]
+    [false "11 " 1]
+    [false "14 " 2]
+    [true "12 " 3]
+    [false "9 " 4]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 20 - 8 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "5684606d468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    7 + ____ = 14 <br>\n</p>\n\n",
+   :options
+   [[false "8 " 0]
+    [false "9" 1]
+    [false "6 " 2]
+    [true "7 " 3]
+    [false "4 " 4]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 14 - 7 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "5684606e468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    9 + ____ = 13 <br>\n</p>\n\n",
+   :options
+   [[true "4 " 0]
+    [false "3 " 1]
+    [false "2" 2]
+    [false "1 " 3]
+    [false "6 " 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Intinya sih supaya cepet bisa mikir ini tuh 13 - 9 <br>\n    Tinggal lancarin aja lah ya.\n</p>",
+  :template-id "513836f0418011eba53b81e59324e143",
+  :topic :math,
+  :problem-id "5684606f468611eba53b81e59324e143"}]

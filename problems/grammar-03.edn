@@ -1,0 +1,70 @@
+[{:soal
+  {:soal-text
+   "\n<p>\n    Harry : \"I can't register my passport today\".\n    Tanoe : \"No worries, you can ______ registered\".\n</p>\n\n",
+   :options
+   [[false "be " 0]
+    [false "have" 1]
+    [true "have it " 2]
+    [false "has it " 3]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Dari clue can't  kita tau si Harry ga bisa ngelakuin sendiri.\n    Jadinya dia butuh orang lain untuk ngelakuin itu dong.\n    Bentuk itu namanya causative, bikin orang lain ngelakuin untuk kita.\n    Modelnya Have/Has Someone Done something!\n    Gitu, jadi jawabannya yang pas ya have it\n</p>",
+  :template-id "56324870468611eba53b81e59324e143",
+  :topic :english,
+  :problem-id "56917f70468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n    Harry : \"I can't go the post office\".\n    Tanoe : \"No worries, you can ______ posted for you\".\n</p>\n\n",
+   :options
+   [[true "have it " 0]
+    [false "be " 1]
+    [false "has it " 2]
+    [false "have" 3]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Dari clue can't  kita tau si Harry ga bisa ngelakuin sendiri.\n    Jadinya dia butuh orang lain untuk ngelakuin itu dong.\n    Bentuk itu namanya causative, bikin orang lain ngelakuin untuk kita.\n    Modelnya Have/Has Someone Done something!\n    Gitu, jadi jawabannya yang pas ya have it\n</p>",
+  :template-id "56324870468611eba53b81e59324e143",
+  :topic :english,
+  :problem-id "56917f71468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n    Harry : \"I can't do this my self\".\n    Tanoe : \"No worries, you can ______ done for you\".\n</p>\n\n",
+   :options
+   [[false "have" 0]
+    [true "have it " 1]
+    [false "be " 2]
+    [false "has it " 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Dari clue can't  kita tau si Harry ga bisa ngelakuin sendiri.\n    Jadinya dia butuh orang lain untuk ngelakuin itu dong.\n    Bentuk itu namanya causative, bikin orang lain ngelakuin untuk kita.\n    Modelnya Have/Has Someone Done something!\n    Gitu, jadi jawabannya yang pas ya have it\n</p>",
+  :template-id "56324870468611eba53b81e59324e143",
+  :topic :english,
+  :problem-id "56917f72468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n    Harry : \"I can't deliver the package myself\".\n    Tanoe : \"No worries, you can ______ delivered for you\".\n</p>\n\n",
+   :options
+   [[false "be " 0]
+    [true "have it " 1]
+    [false "have" 2]
+    [false "has it " 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Dari clue can't  kita tau si Harry ga bisa ngelakuin sendiri.\n    Jadinya dia butuh orang lain untuk ngelakuin itu dong.\n    Bentuk itu namanya causative, bikin orang lain ngelakuin untuk kita.\n    Modelnya Have/Has Someone Done something!\n    Gitu, jadi jawabannya yang pas ya have it\n</p>",
+  :template-id "56324870468611eba53b81e59324e143",
+  :topic :english,
+  :problem-id "56917f73468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n    Harry : \"I can't personally take the award\".\n    Tanoe : \"No worries, you can ______ taken for you\".\n</p>\n\n",
+   :options
+   [[false "has it " 0]
+    [true "have it " 1]
+    [false "have" 2]
+    [false "be " 3]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Dari clue can't  kita tau si Harry ga bisa ngelakuin sendiri.\n    Jadinya dia butuh orang lain untuk ngelakuin itu dong.\n    Bentuk itu namanya causative, bikin orang lain ngelakuin untuk kita.\n    Modelnya Have/Has Someone Done something!\n    Gitu, jadi jawabannya yang pas ya have it\n</p>",
+  :template-id "56324870468611eba53b81e59324e143",
+  :topic :english,
+  :problem-id "56917f74468611eba53b81e59324e143"}]

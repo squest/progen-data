@@ -1,0 +1,1000 @@
+[{:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi gubernur: <br>\ntidak pernah mutusin orang dengan alasan mau fokus UN atau suka makan telur puyuh. <br>\nJika Momos tidak pernah mutusin orang dengan alasan mau fokus UN, maka Momos memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi gubernur, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Momos itu tidak pernah mutusin orang dengan alasan mau fokus UN, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Momos memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a44420468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjual cilok: <br>\npunya 5 mantan atau lebih atau memiliki rambut. <br>\nJika Mawar punya 5 mantan atau lebih, maka Mawar memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjual cilok, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Mawar itu punya 5 mantan atau lebih, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Mawar memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a44421468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk mendapatkan cintanya: <br>\nmudah rindu atau fans Black Pink. <br>\nJika Delima mudah rindu, maka Delima memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk mendapatkan cintanya, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Delima itu mudah rindu, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Delima memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a44422468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk mendapatkan cintanya: <br>\nsuka Harry Potter atau pernah ditilang polisi. <br>\nJika Suneo suka Harry Potter, maka Suneo memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk mendapatkan cintanya, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Suneo itu suka Harry Potter, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Suneo memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a44423468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi cinta sejatinya: <br>\nmudah baper atau memiliki rambut. <br>\nJika Momos mudah baper, maka Momos memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi cinta sejatinya, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Momos itu mudah baper, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Momos memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a44424468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi pahlawan: <br>\ntidak pernah memberikan harapan palsu atau berkaki lima. <br>\nJika Rangga tidak pernah memberikan harapan palsu, maka Rangga memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi pahlawan, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Rangga itu tidak pernah memberikan harapan palsu, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Rangga memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a44425468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk mendapatkan cintanya: <br>\nmudah baper atau suka makan telur puyuh. <br>\nJika Delima mudah baper, maka Delima memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk mendapatkan cintanya, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Delima itu mudah baper, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Delima memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a44426468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi gubernur: <br>\nsetia atau memiliki rambut. <br>\nJika Rangga setia, maka Rangga memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi gubernur, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Rangga itu setia, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Rangga memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a44427468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk membeli rumah: <br>\ntidak pernah mutusin orang dengan alasan mau fokus UN atau berkaki lima. <br>\nJika Mawar tidak pernah mutusin orang dengan alasan mau fokus UN, maka Mawar memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk membeli rumah, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Mawar itu tidak pernah mutusin orang dengan alasan mau fokus UN, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Mawar memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a44428468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk pulang kampung: <br>\nsetia atau memiliki rambut. <br>\nJika Sarkonah setia, maka Sarkonah memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk pulang kampung, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Sarkonah itu setia, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Sarkonah memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a44429468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi peternak: <br>\nmudah baper atau tidak pernah bohong. <br>\nJika Kecoa mudah baper, maka Kecoa memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi peternak, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Kecoa itu mudah baper, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Kecoa memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a4442a468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk naik kereta: <br>\ntidak pernah mutusin orang dengan alasan mau fokus UN atau memiliki rambut. <br>\nJika Suneo tidak pernah mutusin orang dengan alasan mau fokus UN, maka Suneo memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk naik kereta, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Suneo itu tidak pernah mutusin orang dengan alasan mau fokus UN, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Suneo memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a4442b468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk pulang kampung: <br>\ntidak pernah menarik pintu bertuliskan push/dorong atau fans Black Pink. <br>\nJika Zenia tidak pernah menarik pintu bertuliskan push/dorong, maka Zenia memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk pulang kampung, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Zenia itu tidak pernah menarik pintu bertuliskan push/dorong, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Zenia memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a4442c468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk diterima di ITB: <br>\nmudah baper atau pernah ditilang polisi. <br>\nJika Rangga mudah baper, maka Rangga memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk diterima di ITB, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Rangga itu mudah baper, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Rangga memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a4442d468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi gubernur: <br>\npernah diputusin atau jago main bola. <br>\nJika Mawar pernah diputusin, maka Mawar memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi gubernur, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Mawar itu pernah diputusin, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Mawar memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a4442e468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi cinta sejatinya: <br>\npunya 5 mantan atau lebih atau tidak pernah bohong. <br>\nJika Bon Jovi punya 5 mantan atau lebih, maka Bon Jovi memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi cinta sejatinya, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Bon Jovi itu punya 5 mantan atau lebih, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Bon Jovi memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a4442f468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk pulang kampung: <br>\ntidak pernah memberikan harapan palsu atau pernah ditilang polisi. <br>\nJika Pegasus tidak pernah memberikan harapan palsu, maka Pegasus memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk pulang kampung, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Pegasus itu tidak pernah memberikan harapan palsu, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Pegasus memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a44430468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi gubernur: <br>\nhafal lirik lagu Taylor Swift atau lahir di bulan Desember. <br>\nJika Kelinci hafal lirik lagu Taylor Swift, maka Kelinci memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi gubernur, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Kelinci itu hafal lirik lagu Taylor Swift, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Kelinci memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a44431468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjual cilok: <br>\nsuka Harry Potter atau jago main bola. <br>\nJika Sarkonah suka Harry Potter, maka Sarkonah memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjual cilok, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Sarkonah itu suka Harry Potter, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Sarkonah memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a44432468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk pulang kampung: <br>\ntidak pernah memberikan harapan palsu atau fans Black Pink. <br>\nJika Sarkonah tidak pernah memberikan harapan palsu, maka Sarkonah memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk pulang kampung, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Sarkonah itu tidak pernah memberikan harapan palsu, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Sarkonah memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a44433468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk pulang kampung: <br>\ntidak pernah menarik pintu bertuliskan push/dorong atau memiliki rambut. <br>\nJika Melati tidak pernah menarik pintu bertuliskan push/dorong, maka Melati memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk pulang kampung, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Melati itu tidak pernah menarik pintu bertuliskan push/dorong, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Melati memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a44434468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk pulang kampung: <br>\nsuka Harry Potter atau memiliki rambut. <br>\nJika Bon Jovi suka Harry Potter, maka Bon Jovi memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk pulang kampung, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Bon Jovi itu suka Harry Potter, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Bon Jovi memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a44435468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi pujaannya: <br>\ntidak pernah mutusin orang dengan alasan mau fokus UN atau pernah ditilang polisi. <br>\nJika Kelinci tidak pernah mutusin orang dengan alasan mau fokus UN, maka Kelinci memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi pujaannya, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Kelinci itu tidak pernah mutusin orang dengan alasan mau fokus UN, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Kelinci memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a44436468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi orang terkenal: <br>\npernah diputusin atau lahir di bulan Desember. <br>\nJika Momos pernah diputusin, maka Momos memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi orang terkenal, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Momos itu pernah diputusin, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Momos memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a44437468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi peternak: <br>\ntidak pernah menarik pintu bertuliskan push/dorong atau tidak pernah bohong. <br>\nJika Suneo tidak pernah menarik pintu bertuliskan push/dorong, maka Suneo memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi peternak, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Suneo itu tidak pernah menarik pintu bertuliskan push/dorong, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Suneo memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a44438468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi pujaannya: <br>\nmudah baper atau berkaki lima. <br>\nJika Rangga mudah baper, maka Rangga memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi pujaannya, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Rangga itu mudah baper, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Rangga memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a44439468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi gubernur: <br>\nsetia atau suka makan telur puyuh. <br>\nJika Suneo setia, maka Suneo memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi gubernur, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Suneo itu setia, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Suneo memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a4443a468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjual cilok: <br>\ntidak pernah memberikan harapan palsu atau jago fisika. <br>\nJika Melati tidak pernah memberikan harapan palsu, maka Melati memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjual cilok, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Melati itu tidak pernah memberikan harapan palsu, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Melati memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a4443b468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi gubernur: <br>\npunya 5 mantan atau lebih atau pernah ditilang polisi. <br>\nJika Bon Jovi punya 5 mantan atau lebih, maka Bon Jovi memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi gubernur, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Bon Jovi itu punya 5 mantan atau lebih, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Bon Jovi memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a4443c468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk mendapatkan cintanya: <br>\nmudah rindu atau tidak pernah bohong. <br>\nJika Zenia mudah rindu, maka Zenia memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk mendapatkan cintanya, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Zenia itu mudah rindu, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Zenia memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a4443d468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi gubernur: <br>\ntidak pernah menarik pintu bertuliskan push/dorong atau tidak pernah bohong. <br>\nJika Mawar tidak pernah menarik pintu bertuliskan push/dorong, maka Mawar memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi gubernur, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Mawar itu tidak pernah menarik pintu bertuliskan push/dorong, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Mawar memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a4443e468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi orang terkenal: <br>\ntidak pernah mutusin orang dengan alasan mau fokus UN atau jago fisika. <br>\nJika Sarkonah tidak pernah mutusin orang dengan alasan mau fokus UN, maka Sarkonah memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi orang terkenal, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Sarkonah itu tidak pernah mutusin orang dengan alasan mau fokus UN, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Sarkonah memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a4443f468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi peternak: <br>\ntidak pernah menarik pintu bertuliskan push/dorong atau pernah ditilang polisi. <br>\nJika Pejantan Tangguh tidak pernah menarik pintu bertuliskan push/dorong, maka Pejantan Tangguh memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi peternak, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Pejantan Tangguh itu tidak pernah menarik pintu bertuliskan push/dorong, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Pejantan Tangguh memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a44440468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk mendapatkan cintanya: <br>\nsuka Harry Potter atau jago main bola. <br>\nJika Rangga suka Harry Potter, maka Rangga memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk mendapatkan cintanya, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Rangga itu suka Harry Potter, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Rangga memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a44441468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi orang terkenal: <br>\nsuka Harry Potter atau jago main bola. <br>\nJika Rangga suka Harry Potter, maka Rangga memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi orang terkenal, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Rangga itu suka Harry Potter, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Rangga memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a44442468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi peternak: <br>\nmudah rindu atau jago fisika. <br>\nJika Pegasus mudah rindu, maka Pegasus memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi peternak, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Pegasus itu mudah rindu, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Pegasus memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a44443468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk mendapatkan cintanya: <br>\nhafal lirik lagu Taylor Swift atau jago fisika. <br>\nJika Kecoa hafal lirik lagu Taylor Swift, maka Kecoa memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk mendapatkan cintanya, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Kecoa itu hafal lirik lagu Taylor Swift, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Kecoa memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a44444468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi pujaannya: <br>\ntidak pernah memberikan harapan palsu atau fans Black Pink. <br>\nJika Sarkonah tidak pernah memberikan harapan palsu, maka Sarkonah memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi pujaannya, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Sarkonah itu tidak pernah memberikan harapan palsu, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Sarkonah memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a44445468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi pahlawan: <br>\npunya 5 mantan atau lebih atau suka makan telur puyuh. <br>\nJika Zenia punya 5 mantan atau lebih, maka Zenia memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi pahlawan, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Zenia itu punya 5 mantan atau lebih, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Zenia memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a44446468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi pahlawan: <br>\ntidak pernah memberikan harapan palsu atau lahir di bulan Desember. <br>\nJika Pejantan Tangguh tidak pernah memberikan harapan palsu, maka Pejantan Tangguh memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi pahlawan, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Pejantan Tangguh itu tidak pernah memberikan harapan palsu, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Pejantan Tangguh memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a44447468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjual cilok: <br>\nhafal lirik lagu Taylor Swift atau jago fisika. <br>\nJika Momos hafal lirik lagu Taylor Swift, maka Momos memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjual cilok, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Momos itu hafal lirik lagu Taylor Swift, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Momos memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a44448468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi gubernur: <br>\nsuka Harry Potter atau memiliki rambut. <br>\nJika Kelinci suka Harry Potter, maka Kelinci memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi gubernur, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Kelinci itu suka Harry Potter, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Kelinci memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a44449468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi peternak: <br>\nhafal lirik lagu Taylor Swift atau memiliki rambut. <br>\nJika Kecoa hafal lirik lagu Taylor Swift, maka Kecoa memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi peternak, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Kecoa itu hafal lirik lagu Taylor Swift, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Kecoa memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a4444a468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjual cilok: <br>\ntidak pernah memberikan harapan palsu atau memiliki rambut. <br>\nJika Pegasus tidak pernah memberikan harapan palsu, maka Pegasus memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjual cilok, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Pegasus itu tidak pernah memberikan harapan palsu, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Pegasus memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a4444b468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi gubernur: <br>\npernah diputusin atau tidak pernah bohong. <br>\nJika Sarkonah pernah diputusin, maka Sarkonah memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi gubernur, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Sarkonah itu pernah diputusin, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Sarkonah memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a4444c468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi cinta sejatinya: <br>\ntidak pernah mutusin orang dengan alasan mau fokus UN atau memiliki rambut. <br>\nJika Momos tidak pernah mutusin orang dengan alasan mau fokus UN, maka Momos memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi cinta sejatinya, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Momos itu tidak pernah mutusin orang dengan alasan mau fokus UN, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Momos memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a4444d468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi pahlawan: <br>\npernah diputusin atau pernah ditilang polisi. <br>\nJika Zenia pernah diputusin, maka Zenia memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi pahlawan, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Zenia itu pernah diputusin, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Zenia memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a4444e468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi pujaannya: <br>\ntidak pernah memberikan harapan palsu atau suka makan telur puyuh. <br>\nJika Mawar tidak pernah memberikan harapan palsu, maka Mawar memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi pujaannya, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Mawar itu tidak pernah memberikan harapan palsu, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Mawar memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a4444f468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi orang terkenal: <br>\nsuka Harry Potter atau suka makan telur puyuh. <br>\nJika Sarkonah suka Harry Potter, maka Sarkonah memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi orang terkenal, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Sarkonah itu suka Harry Potter, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Sarkonah memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a44450468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk diterima di ITB: <br>\nsuka Harry Potter atau fans Black Pink. <br>\nJika Suneo suka Harry Potter, maka Suneo memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk diterima di ITB, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Suneo itu suka Harry Potter, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Suneo memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a44451468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk naik kereta: <br>\nsetia atau suka makan telur puyuh. <br>\nJika Suneo setia, maka Suneo memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk naik kereta, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Suneo itu setia, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Suneo memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a44452468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk pulang kampung: <br>\npernah patah hati atau memiliki rambut. <br>\nJika Kecoa pernah patah hati, maka Kecoa memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk pulang kampung, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Kecoa itu pernah patah hati, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Kecoa memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a44453468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjual cilok: <br>\nmudah rindu atau berkaki lima. <br>\nJika Momos mudah rindu, maka Momos memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjual cilok, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Momos itu mudah rindu, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Momos memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a44454468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk diterima di ITB: <br>\npernah patah hati atau pernah ditilang polisi. <br>\nJika Kecoa pernah patah hati, maka Kecoa memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk diterima di ITB, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Kecoa itu pernah patah hati, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Kecoa memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a44455468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk pulang kampung: <br>\nmudah rindu atau fans Black Pink. <br>\nJika Momos mudah rindu, maka Momos memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk pulang kampung, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Momos itu mudah rindu, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Momos memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a44456468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk pulang kampung: <br>\nsetia atau jago main bola. <br>\nJika Delima setia, maka Delima memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk pulang kampung, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Delima itu setia, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Delima memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a44457468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi orang terkenal: <br>\nmudah baper atau pernah ditilang polisi. <br>\nJika Sarkonah mudah baper, maka Sarkonah memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi orang terkenal, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Sarkonah itu mudah baper, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Sarkonah memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a44458468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk diterima di ITB: <br>\nsetia atau tidak pernah bohong. <br>\nJika Melati setia, maka Melati memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk diterima di ITB, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Melati itu setia, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Melati memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a44459468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk diterima di ITB: <br>\nmudah rindu atau fans Black Pink. <br>\nJika Momos mudah rindu, maka Momos memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk diterima di ITB, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Momos itu mudah rindu, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Momos memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a4445a468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi pujaannya: <br>\ntidak pernah mutusin orang dengan alasan mau fokus UN atau fans Black Pink. <br>\nJika Pejantan Tangguh tidak pernah mutusin orang dengan alasan mau fokus UN, maka Pejantan Tangguh memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi pujaannya, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Pejantan Tangguh itu tidak pernah mutusin orang dengan alasan mau fokus UN, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Pejantan Tangguh memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a4445b468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk membeli rumah: <br>\npernah patah hati atau lahir di bulan Desember. <br>\nJika Suneo pernah patah hati, maka Suneo memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk membeli rumah, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Suneo itu pernah patah hati, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Suneo memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a4445c468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjual cilok: <br>\npernah patah hati atau suka makan telur puyuh. <br>\nJika Pejantan Tangguh pernah patah hati, maka Pejantan Tangguh memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjual cilok, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Pejantan Tangguh itu pernah patah hati, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Pejantan Tangguh memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a4445d468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk pulang kampung: <br>\ntidak pernah menarik pintu bertuliskan push/dorong atau pernah ditilang polisi. <br>\nJika Zenia tidak pernah menarik pintu bertuliskan push/dorong, maka Zenia memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk pulang kampung, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Zenia itu tidak pernah menarik pintu bertuliskan push/dorong, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Zenia memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a4445e468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi peternak: <br>\nsuka Harry Potter atau berkaki lima. <br>\nJika Delima suka Harry Potter, maka Delima memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi peternak, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Delima itu suka Harry Potter, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Delima memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a4445f468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk pulang kampung: <br>\nmudah rindu atau suka makan telur puyuh. <br>\nJika Melati mudah rindu, maka Melati memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk pulang kampung, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Melati itu mudah rindu, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Melati memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a44460468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk mendapatkan cintanya: <br>\ntidak pernah mutusin orang dengan alasan mau fokus UN atau lahir di bulan Desember. <br>\nJika Momos tidak pernah mutusin orang dengan alasan mau fokus UN, maka Momos memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk mendapatkan cintanya, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Momos itu tidak pernah mutusin orang dengan alasan mau fokus UN, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Momos memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a44461468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi pahlawan: <br>\nsuka Harry Potter atau suka makan telur puyuh. <br>\nJika Rangga suka Harry Potter, maka Rangga memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi pahlawan, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Rangga itu suka Harry Potter, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Rangga memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a44462468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjual cilok: <br>\npernah patah hati atau memiliki rambut. <br>\nJika Kelinci pernah patah hati, maka Kelinci memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjual cilok, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Kelinci itu pernah patah hati, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Kelinci memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a44463468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi pujaannya: <br>\nsetia atau suka makan telur puyuh. <br>\nJika Mawar setia, maka Mawar memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi pujaannya, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Mawar itu setia, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Mawar memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a44464468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk mendapatkan cintanya: <br>\nmudah rindu atau suka makan telur puyuh. <br>\nJika Rangga mudah rindu, maka Rangga memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk mendapatkan cintanya, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Rangga itu mudah rindu, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Rangga memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a44465468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi pahlawan: <br>\npernah patah hati atau berkaki lima. <br>\nJika Rangga pernah patah hati, maka Rangga memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi pahlawan, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Rangga itu pernah patah hati, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Rangga memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a44466468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi cinta sejatinya: <br>\ntidak pernah menarik pintu bertuliskan push/dorong atau lahir di bulan Desember. <br>\nJika Bon Jovi tidak pernah menarik pintu bertuliskan push/dorong, maka Bon Jovi memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi cinta sejatinya, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Bon Jovi itu tidak pernah menarik pintu bertuliskan push/dorong, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Bon Jovi memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a44467468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi cinta sejatinya: <br>\nmudah rindu atau jago fisika. <br>\nJika Kecoa mudah rindu, maka Kecoa memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi cinta sejatinya, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Kecoa itu mudah rindu, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Kecoa memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a44468468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi pahlawan: <br>\ntidak pernah memberikan harapan palsu atau fans Black Pink. <br>\nJika Momos tidak pernah memberikan harapan palsu, maka Momos memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi pahlawan, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Momos itu tidak pernah memberikan harapan palsu, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Momos memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a44469468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk mendapatkan cintanya: <br>\nmudah baper atau memiliki rambut. <br>\nJika Zenia mudah baper, maka Zenia memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk mendapatkan cintanya, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Zenia itu mudah baper, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Zenia memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a4446a468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi pahlawan: <br>\nmudah baper atau suka makan telur puyuh. <br>\nJika Delima mudah baper, maka Delima memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi pahlawan, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Delima itu mudah baper, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Delima memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a4446b468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi cinta sejatinya: <br>\npernah patah hati atau suka makan telur puyuh. <br>\nJika Rangga pernah patah hati, maka Rangga memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi cinta sejatinya, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Rangga itu pernah patah hati, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Rangga memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a4446c468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk mendapatkan cintanya: <br>\npunya 5 mantan atau lebih atau lahir di bulan Desember. <br>\nJika Pejantan Tangguh punya 5 mantan atau lebih, maka Pejantan Tangguh memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk mendapatkan cintanya, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Pejantan Tangguh itu punya 5 mantan atau lebih, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Pejantan Tangguh memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a4446d468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi pujaannya: <br>\ntidak pernah menarik pintu bertuliskan push/dorong atau fans Black Pink. <br>\nJika Pegasus tidak pernah menarik pintu bertuliskan push/dorong, maka Pegasus memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi pujaannya, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Pegasus itu tidak pernah menarik pintu bertuliskan push/dorong, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Pegasus memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a4446e468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi pahlawan: <br>\nhafal lirik lagu Taylor Swift atau suka makan telur puyuh. <br>\nJika Zenia hafal lirik lagu Taylor Swift, maka Zenia memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi pahlawan, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Zenia itu hafal lirik lagu Taylor Swift, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Zenia memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a46b30468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk naik kereta: <br>\ntidak pernah menarik pintu bertuliskan push/dorong atau jago main bola. <br>\nJika Pegasus tidak pernah menarik pintu bertuliskan push/dorong, maka Pegasus memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk naik kereta, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Pegasus itu tidak pernah menarik pintu bertuliskan push/dorong, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Pegasus memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a46b31468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi pujaannya: <br>\nhafal lirik lagu Taylor Swift atau berkaki lima. <br>\nJika Zenia hafal lirik lagu Taylor Swift, maka Zenia memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi pujaannya, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Zenia itu hafal lirik lagu Taylor Swift, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Zenia memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a46b32468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk membeli rumah: <br>\nsuka Harry Potter atau lahir di bulan Desember. <br>\nJika Sarkonah suka Harry Potter, maka Sarkonah memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk membeli rumah, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Sarkonah itu suka Harry Potter, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Sarkonah memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a46b33468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk naik kereta: <br>\ntidak pernah memberikan harapan palsu atau jago main bola. <br>\nJika Pegasus tidak pernah memberikan harapan palsu, maka Pegasus memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk naik kereta, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Pegasus itu tidak pernah memberikan harapan palsu, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Pegasus memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a46b34468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk mendapatkan cintanya: <br>\nsuka Harry Potter atau jago fisika. <br>\nJika Sarkonah suka Harry Potter, maka Sarkonah memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk mendapatkan cintanya, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Sarkonah itu suka Harry Potter, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Sarkonah memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a46b35468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi cinta sejatinya: <br>\nsuka Harry Potter atau jago fisika. <br>\nJika Mawar suka Harry Potter, maka Mawar memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi cinta sejatinya, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Mawar itu suka Harry Potter, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Mawar memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a46b36468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi peternak: <br>\ntidak pernah mutusin orang dengan alasan mau fokus UN atau jago fisika. <br>\nJika Sarkonah tidak pernah mutusin orang dengan alasan mau fokus UN, maka Sarkonah memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi peternak, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Sarkonah itu tidak pernah mutusin orang dengan alasan mau fokus UN, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Sarkonah memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a46b37468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi cinta sejatinya: <br>\ntidak pernah mutusin orang dengan alasan mau fokus UN atau tidak pernah bohong. <br>\nJika Pejantan Tangguh tidak pernah mutusin orang dengan alasan mau fokus UN, maka Pejantan Tangguh memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi cinta sejatinya, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Pejantan Tangguh itu tidak pernah mutusin orang dengan alasan mau fokus UN, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Pejantan Tangguh memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a46b38468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi pahlawan: <br>\npunya 5 mantan atau lebih atau jago main bola. <br>\nJika Kecoa punya 5 mantan atau lebih, maka Kecoa memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi pahlawan, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Kecoa itu punya 5 mantan atau lebih, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Kecoa memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a46b39468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk pulang kampung: <br>\ntidak pernah menarik pintu bertuliskan push/dorong atau tidak pernah bohong. <br>\nJika Rangga tidak pernah menarik pintu bertuliskan push/dorong, maka Rangga memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk pulang kampung, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Rangga itu tidak pernah menarik pintu bertuliskan push/dorong, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Rangga memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a46b3a468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk mendapatkan cintanya: <br>\ntidak pernah menarik pintu bertuliskan push/dorong atau lahir di bulan Desember. <br>\nJika Kecoa tidak pernah menarik pintu bertuliskan push/dorong, maka Kecoa memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk mendapatkan cintanya, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Kecoa itu tidak pernah menarik pintu bertuliskan push/dorong, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Kecoa memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a46b3b468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi gubernur: <br>\npernah patah hati atau fans Black Pink. <br>\nJika Pejantan Tangguh pernah patah hati, maka Pejantan Tangguh memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi gubernur, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Pejantan Tangguh itu pernah patah hati, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Pejantan Tangguh memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a46b3c468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi gubernur: <br>\nsetia atau fans Black Pink. <br>\nJika Pegasus setia, maka Pegasus memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi gubernur, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Pegasus itu setia, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Pegasus memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a46b3d468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi gubernur: <br>\npernah patah hati atau jago fisika. <br>\nJika Zenia pernah patah hati, maka Zenia memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi gubernur, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Zenia itu pernah patah hati, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Zenia memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a46b3e468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi peternak: <br>\npernah diputusin atau jago main bola. <br>\nJika Melati pernah diputusin, maka Melati memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi peternak, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Melati itu pernah diputusin, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Melati memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a46b3f468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi orang terkenal: <br>\npunya 5 mantan atau lebih atau memiliki rambut. <br>\nJika Rangga punya 5 mantan atau lebih, maka Rangga memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi orang terkenal, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Rangga itu punya 5 mantan atau lebih, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Rangga memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a46b40468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk diterima di ITB: <br>\nsetia atau tidak pernah bohong. <br>\nJika Momos setia, maka Momos memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk diterima di ITB, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Momos itu setia, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Momos memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a46b41468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk mendapatkan cintanya: <br>\npernah diputusin atau suka makan telur puyuh. <br>\nJika Kelinci pernah diputusin, maka Kelinci memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk mendapatkan cintanya, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Kelinci itu pernah diputusin, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Kelinci memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a46b42468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjual cilok: <br>\nhafal lirik lagu Taylor Swift atau jago main bola. <br>\nJika Melati hafal lirik lagu Taylor Swift, maka Melati memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjual cilok, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Melati itu hafal lirik lagu Taylor Swift, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Melati memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a46b43468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi cinta sejatinya: <br>\npernah diputusin atau jago main bola. <br>\nJika Momos pernah diputusin, maka Momos memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nKata \"ATAU\" yang ada di antara kedua syarat menunjukkan bahwa untuk menjadi cinta sejatinya, <br>\nsuatu entitas harus memenuhi seenggaknya satu dari dua syarat yang ada. <br>\nNaaah karena si Momos itu pernah diputusin, di mana itu berarti dia udah memenuhi salah satu <br>\nsyarat, artinya kita bisa simpulkan doong bahwa Momos memenuhi persyaratannya.\n\n</p>\n",
+  :template-id "d27fd590448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "56a46b44468611eba53b81e59324e143"}]

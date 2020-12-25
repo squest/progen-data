@@ -1,0 +1,1000 @@
+[{:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi cinta sejatinya: <br>\nmudah baper dan memiliki rambut atau <br>\ntulus dan suka bubur diaduk <br>\nJika Kecoa tidak memiliki rambut dan tidak suka bubur diaduk, <br>\nmaka Kecoa tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Kecoa gak memiliki rambut dan gak suka bubur diaduk yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"mudah baper dan memiliki rambut\" <br>\nmaupun syarat \"tulus dan suka bubur diaduk\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Kecoa gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57cae9d0468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi gubernur: <br>\nmudah rindu dan takut badut atau <br>\nsuka menari dan tidak merokok <br>\nJika Suneo tidak takut badut dan tidak tidak merokok, <br>\nmaka Suneo tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Suneo gak takut badut dan gak tidak merokok yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"mudah rindu dan takut badut\" <br>\nmaupun syarat \"suka menari dan tidak merokok\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Suneo gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57cae9d1468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk pulang kampung: <br>\nsetia dan punya sepeda atau <br>\npernah ditilang dan hobi berenang <br>\nJika Melati tidak punya sepeda dan tidak hobi berenang, <br>\nmaka Melati tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Melati gak punya sepeda dan gak hobi berenang yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"setia dan punya sepeda\" <br>\nmaupun syarat \"pernah ditilang dan hobi berenang\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Melati gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57cae9d2468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk pulang kampung: <br>\nsuka Harry Potter dan mempesona atau <br>\nsayang ayah dan tidak merokok <br>\nJika Rangga tidak mempesona dan tidak tidak merokok, <br>\nmaka Rangga tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Rangga gak mempesona dan gak tidak merokok yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"suka Harry Potter dan mempesona\" <br>\nmaupun syarat \"sayang ayah dan tidak merokok\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Rangga gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57cae9d3468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk pulang kampung: <br>\nmudah baper dan punya sepeda atau <br>\nbucin dan pernah galau <br>\nJika Marimar tidak punya sepeda dan tidak pernah galau, <br>\nmaka Marimar tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Marimar gak punya sepeda dan gak pernah galau yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"mudah baper dan punya sepeda\" <br>\nmaupun syarat \"bucin dan pernah galau\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Marimar gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57cae9d4468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi pujaannya: <br>\npernah patah hati dan mempesona atau <br>\ntulus dan pernah galau <br>\nJika Kelinci tidak mempesona dan tidak pernah galau, <br>\nmaka Kelinci tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Kelinci gak mempesona dan gak pernah galau yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"pernah patah hati dan mempesona\" <br>\nmaupun syarat \"tulus dan pernah galau\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Kelinci gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57cae9d5468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi peternak: <br>\nsuka ketoprak dan pernah ditilang atau <br>\ntulus dan tidak merokok <br>\nJika Pejantan Tangguh tidak pernah ditilang dan tidak tidak merokok, <br>\nmaka Pejantan Tangguh tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Pejantan Tangguh gak pernah ditilang dan gak tidak merokok yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"suka ketoprak dan pernah ditilang\" <br>\nmaupun syarat \"tulus dan tidak merokok\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Pejantan Tangguh gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57cae9d6468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi peternak: <br>\nsetia dan punya sepeda atau <br>\nsayang ibu dan sedikit bandel <br>\nJika Bon Jovi tidak punya sepeda dan tidak sedikit bandel, <br>\nmaka Bon Jovi tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Bon Jovi gak punya sepeda dan gak sedikit bandel yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"setia dan punya sepeda\" <br>\nmaupun syarat \"sayang ibu dan sedikit bandel\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Bon Jovi gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57cae9d7468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk membeli rumah: <br>\npunya becak dan hobi masak atau <br>\nbucin dan tidak merokok <br>\nJika Zenia tidak hobi masak dan tidak tidak merokok, <br>\nmaka Zenia tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Zenia gak hobi masak dan gak tidak merokok yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"punya becak dan hobi masak\" <br>\nmaupun syarat \"bucin dan tidak merokok\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Zenia gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57cae9d8468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjual cilok: <br>\npernah patah hati dan hobi masak atau <br>\nsayang ayah dan tidak merokok <br>\nJika Mawar tidak hobi masak dan tidak tidak merokok, <br>\nmaka Mawar tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Mawar gak hobi masak dan gak tidak merokok yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"pernah patah hati dan hobi masak\" <br>\nmaupun syarat \"sayang ayah dan tidak merokok\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Mawar gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57cae9d9468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk mendapatkan cintanya: <br>\nsuka ketoprak dan mempesona atau <br>\npenuh cinta dan jago bikin meme <br>\nJika Pablo tidak mempesona dan tidak jago bikin meme, <br>\nmaka Pablo tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Pablo gak mempesona dan gak jago bikin meme yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"suka ketoprak dan mempesona\" <br>\nmaupun syarat \"penuh cinta dan jago bikin meme\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Pablo gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57cae9da468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi cinta sejatinya: <br>\nmudah baper dan memiliki rambut atau <br>\nbucin dan pernah galau <br>\nJika Bon Jovi tidak memiliki rambut dan tidak pernah galau, <br>\nmaka Bon Jovi tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Bon Jovi gak memiliki rambut dan gak pernah galau yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"mudah baper dan memiliki rambut\" <br>\nmaupun syarat \"bucin dan pernah galau\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Bon Jovi gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57cae9db468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi orang terkenal: <br>\nsuka sate dan jago fisika atau <br>\njago main gitar dan tidak merokok <br>\nJika Marimar tidak jago fisika dan tidak tidak merokok, <br>\nmaka Marimar tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Marimar gak jago fisika dan gak tidak merokok yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"suka sate dan jago fisika\" <br>\nmaupun syarat \"jago main gitar dan tidak merokok\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Marimar gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57cae9dc468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi cinta sejatinya: <br>\npernah patah hati dan pernah ditilang atau <br>\ntulus dan tidak merokok <br>\nJika Pablo tidak pernah ditilang dan tidak tidak merokok, <br>\nmaka Pablo tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Pablo gak pernah ditilang dan gak tidak merokok yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"pernah patah hati dan pernah ditilang\" <br>\nmaupun syarat \"tulus dan tidak merokok\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Pablo gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57cae9dd468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk mendapatkan cintanya: <br>\nmudah rindu dan pernah ditilang atau <br>\njago main gitar dan pernah galau <br>\nJika Rosalinda tidak pernah ditilang dan tidak pernah galau, <br>\nmaka Rosalinda tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Rosalinda gak pernah ditilang dan gak pernah galau yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"mudah rindu dan pernah ditilang\" <br>\nmaupun syarat \"jago main gitar dan pernah galau\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Rosalinda gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57cae9de468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjual cilok: <br>\nsuka sate dan fans Black Pink atau <br>\njago main gitar dan suka bubur diaduk <br>\nJika Momos tidak fans Black Pink dan tidak suka bubur diaduk, <br>\nmaka Momos tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Momos gak fans Black Pink dan gak suka bubur diaduk yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"suka sate dan fans Black Pink\" <br>\nmaupun syarat \"jago main gitar dan suka bubur diaduk\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Momos gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57cae9df468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi orang terkenal: <br>\npunya karya dan phobia cicak atau <br>\nsayang ibu dan hobi berenang <br>\nJika Suneo tidak phobia cicak dan tidak hobi berenang, <br>\nmaka Suneo tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Suneo gak phobia cicak dan gak hobi berenang yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"punya karya dan phobia cicak\" <br>\nmaupun syarat \"sayang ibu dan hobi berenang\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Suneo gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57cae9e0468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk diterima di UI: <br>\nsuka sate dan pernah ditilang atau <br>\nsayang ayah dan hobi berenang <br>\nJika Rangga tidak pernah ditilang dan tidak hobi berenang, <br>\nmaka Rangga tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Rangga gak pernah ditilang dan gak hobi berenang yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"suka sate dan pernah ditilang\" <br>\nmaupun syarat \"sayang ayah dan hobi berenang\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Rangga gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57cae9e1468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjual cilok: <br>\nsuka Harry Potter dan jago fisika atau <br>\npernah ditilang dan jago bikin meme <br>\nJika Rangga tidak jago fisika dan tidak jago bikin meme, <br>\nmaka Rangga tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Rangga gak jago fisika dan gak jago bikin meme yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"suka Harry Potter dan jago fisika\" <br>\nmaupun syarat \"pernah ditilang dan jago bikin meme\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Rangga gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57cae9e2468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi pujaannya: <br>\nmudah rindu dan murah hati atau <br>\ntulus dan suka bubur diaduk <br>\nJika Momos tidak murah hati dan tidak suka bubur diaduk, <br>\nmaka Momos tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Momos gak murah hati dan gak suka bubur diaduk yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"mudah rindu dan murah hati\" <br>\nmaupun syarat \"tulus dan suka bubur diaduk\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Momos gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57cae9e3468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk diterima di UI: <br>\npunya becak dan phobia cicak atau <br>\nsayang ayah dan jago bikin meme <br>\nJika Pejantan Tangguh tidak phobia cicak dan tidak jago bikin meme, <br>\nmaka Pejantan Tangguh tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Pejantan Tangguh gak phobia cicak dan gak jago bikin meme yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"punya becak dan phobia cicak\" <br>\nmaupun syarat \"sayang ayah dan jago bikin meme\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Pejantan Tangguh gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57cae9e4468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi Miss Indonesia: <br>\nsetia dan pernah ditilang atau <br>\njago main gitar dan sedikit bandel <br>\nJika Kelinci tidak pernah ditilang dan tidak sedikit bandel, <br>\nmaka Kelinci tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Kelinci gak pernah ditilang dan gak sedikit bandel yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"setia dan pernah ditilang\" <br>\nmaupun syarat \"jago main gitar dan sedikit bandel\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Kelinci gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57cae9e5468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk pulang kampung: <br>\nmudah rindu dan murah hati atau <br>\nsayang ibu dan suka bubur diaduk <br>\nJika Marimar tidak murah hati dan tidak suka bubur diaduk, <br>\nmaka Marimar tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Marimar gak murah hati dan gak suka bubur diaduk yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"mudah rindu dan murah hati\" <br>\nmaupun syarat \"sayang ibu dan suka bubur diaduk\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Marimar gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57cae9e6468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi cinta sejatinya: <br>\npunya karya dan mempesona atau <br>\nsuka menari dan jago bikin meme <br>\nJika Rangga tidak mempesona dan tidak jago bikin meme, <br>\nmaka Rangga tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Rangga gak mempesona dan gak jago bikin meme yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"punya karya dan mempesona\" <br>\nmaupun syarat \"suka menari dan jago bikin meme\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Rangga gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57cae9e7468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk membeli rumah: <br>\npernah diputusin dan fans Black Pink atau <br>\ntulus dan hobi berenang <br>\nJika Fernando tidak fans Black Pink dan tidak hobi berenang, <br>\nmaka Fernando tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Fernando gak fans Black Pink dan gak hobi berenang yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"pernah diputusin dan fans Black Pink\" <br>\nmaupun syarat \"tulus dan hobi berenang\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Fernando gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57cae9e8468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk membeli rumah: <br>\npernah diputusin dan mempesona atau <br>\nsuka menari dan sedikit bandel <br>\nJika Bon Jovi tidak mempesona dan tidak sedikit bandel, <br>\nmaka Bon Jovi tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Bon Jovi gak mempesona dan gak sedikit bandel yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"pernah diputusin dan mempesona\" <br>\nmaupun syarat \"suka menari dan sedikit bandel\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Bon Jovi gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57cae9e9468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi artis Hollywood: <br>\nmudah baper dan memiliki rambut atau <br>\ntulus dan sedikit bandel <br>\nJika Delima tidak memiliki rambut dan tidak sedikit bandel, <br>\nmaka Delima tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Delima gak memiliki rambut dan gak sedikit bandel yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"mudah baper dan memiliki rambut\" <br>\nmaupun syarat \"tulus dan sedikit bandel\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Delima gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57cae9ea468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk diterima di ITB: <br>\nsuka Harry Potter dan murah hati atau <br>\nsuka menari dan jago bikin meme <br>\nJika Suneo tidak murah hati dan tidak jago bikin meme, <br>\nmaka Suneo tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Suneo gak murah hati dan gak jago bikin meme yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"suka Harry Potter dan murah hati\" <br>\nmaupun syarat \"suka menari dan jago bikin meme\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Suneo gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57cae9eb468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk naik kereta: <br>\npunya becak dan punya sepeda atau <br>\ntulus dan jago bikin meme <br>\nJika Sarkonah tidak punya sepeda dan tidak jago bikin meme, <br>\nmaka Sarkonah tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Sarkonah gak punya sepeda dan gak jago bikin meme yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"punya becak dan punya sepeda\" <br>\nmaupun syarat \"tulus dan jago bikin meme\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Sarkonah gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57cae9ec468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk mendapatkan cintanya: <br>\nsuka Harry Potter dan hobi masak atau <br>\nsayang ibu dan tidak merokok <br>\nJika Mawar tidak hobi masak dan tidak tidak merokok, <br>\nmaka Mawar tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Mawar gak hobi masak dan gak tidak merokok yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"suka Harry Potter dan hobi masak\" <br>\nmaupun syarat \"sayang ibu dan tidak merokok\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Mawar gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57cae9ed468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk naik kereta: <br>\nmudah rindu dan mempesona atau <br>\nsuka menari dan suka bubur diaduk <br>\nJika Melati tidak mempesona dan tidak suka bubur diaduk, <br>\nmaka Melati tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Melati gak mempesona dan gak suka bubur diaduk yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"mudah rindu dan mempesona\" <br>\nmaupun syarat \"suka menari dan suka bubur diaduk\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Melati gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57cae9ee468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi pahlawan: <br>\npunya karya dan murah hati atau <br>\njago main gitar dan suka bubur diaduk <br>\nJika Delima tidak murah hati dan tidak suka bubur diaduk, <br>\nmaka Delima tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Delima gak murah hati dan gak suka bubur diaduk yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"punya karya dan murah hati\" <br>\nmaupun syarat \"jago main gitar dan suka bubur diaduk\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Delima gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57cae9ef468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk diterima di ITB: <br>\npunya karya dan jago main bola atau <br>\nsayang ayah dan pernah galau <br>\nJika Momos tidak jago main bola dan tidak pernah galau, <br>\nmaka Momos tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Momos gak jago main bola dan gak pernah galau yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"punya karya dan jago main bola\" <br>\nmaupun syarat \"sayang ayah dan pernah galau\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Momos gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57cae9f0468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk diterima di ITB: <br>\npunya becak dan pernah ditilang atau <br>\npenuh cinta dan hobi berenang <br>\nJika Melati tidak pernah ditilang dan tidak hobi berenang, <br>\nmaka Melati tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Melati gak pernah ditilang dan gak hobi berenang yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"punya becak dan pernah ditilang\" <br>\nmaupun syarat \"penuh cinta dan hobi berenang\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Melati gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57cae9f1468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk mendapatkan cintanya: <br>\nmudah rindu dan memiliki rambut atau <br>\ntulus dan tidak merokok <br>\nJika Mawar tidak memiliki rambut dan tidak tidak merokok, <br>\nmaka Mawar tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Mawar gak memiliki rambut dan gak tidak merokok yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"mudah rindu dan memiliki rambut\" <br>\nmaupun syarat \"tulus dan tidak merokok\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Mawar gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57cae9f2468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi gubernur: <br>\nsuka Harry Potter dan punya sepeda atau <br>\npenuh cinta dan jago bikin meme <br>\nJika Momos tidak punya sepeda dan tidak jago bikin meme, <br>\nmaka Momos tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Momos gak punya sepeda dan gak jago bikin meme yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"suka Harry Potter dan punya sepeda\" <br>\nmaupun syarat \"penuh cinta dan jago bikin meme\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Momos gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57cae9f3468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi peternak: <br>\nmudah rindu dan hobi masak atau <br>\npenuh cinta dan suka bubur diaduk <br>\nJika Pegasus tidak hobi masak dan tidak suka bubur diaduk, <br>\nmaka Pegasus tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Pegasus gak hobi masak dan gak suka bubur diaduk yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"mudah rindu dan hobi masak\" <br>\nmaupun syarat \"penuh cinta dan suka bubur diaduk\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Pegasus gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57cae9f4468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk diterima di ITB: <br>\nsuka Harry Potter dan murah hati atau <br>\nbucin dan pernah galau <br>\nJika Pegasus tidak murah hati dan tidak pernah galau, <br>\nmaka Pegasus tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Pegasus gak murah hati dan gak pernah galau yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"suka Harry Potter dan murah hati\" <br>\nmaupun syarat \"bucin dan pernah galau\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Pegasus gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57cae9f5468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi gubernur: <br>\nmudah baper dan berkaki lima atau <br>\npernah ditilang dan tidak merokok <br>\nJika Kelinci tidak berkaki lima dan tidak tidak merokok, <br>\nmaka Kelinci tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Kelinci gak berkaki lima dan gak tidak merokok yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"mudah baper dan berkaki lima\" <br>\nmaupun syarat \"pernah ditilang dan tidak merokok\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Kelinci gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57cae9f6468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi orang terkenal: <br>\nsetia dan berkaki lima atau <br>\nbucin dan tidak merokok <br>\nJika Delima tidak berkaki lima dan tidak tidak merokok, <br>\nmaka Delima tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Delima gak berkaki lima dan gak tidak merokok yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"setia dan berkaki lima\" <br>\nmaupun syarat \"bucin dan tidak merokok\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Delima gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57cae9f7468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi cinta sejatinya: <br>\npunya becak dan takut badut atau <br>\npenuh cinta dan pernah galau <br>\nJika Kelinci tidak takut badut dan tidak pernah galau, <br>\nmaka Kelinci tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Kelinci gak takut badut dan gak pernah galau yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"punya becak dan takut badut\" <br>\nmaupun syarat \"penuh cinta dan pernah galau\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Kelinci gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57cae9f8468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk diterima di ITB: <br>\nmudah rindu dan pernah ditilang atau <br>\npenuh cinta dan jago bikin meme <br>\nJika Pejantan Tangguh tidak pernah ditilang dan tidak jago bikin meme, <br>\nmaka Pejantan Tangguh tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Pejantan Tangguh gak pernah ditilang dan gak jago bikin meme yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"mudah rindu dan pernah ditilang\" <br>\nmaupun syarat \"penuh cinta dan jago bikin meme\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Pejantan Tangguh gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57cae9f9468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi artis Hollywood: <br>\npunya karya dan murah hati atau <br>\npenuh cinta dan hobi berenang <br>\nJika Marimar tidak murah hati dan tidak hobi berenang, <br>\nmaka Marimar tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Marimar gak murah hati dan gak hobi berenang yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"punya karya dan murah hati\" <br>\nmaupun syarat \"penuh cinta dan hobi berenang\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Marimar gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57cae9fa468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi gubernur: <br>\nmudah baper dan hobi masak atau <br>\nsayang ibu dan sedikit bandel <br>\nJika Pejantan Tangguh tidak hobi masak dan tidak sedikit bandel, <br>\nmaka Pejantan Tangguh tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Pejantan Tangguh gak hobi masak dan gak sedikit bandel yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"mudah baper dan hobi masak\" <br>\nmaupun syarat \"sayang ibu dan sedikit bandel\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Pejantan Tangguh gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57cae9fb468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi Miss Indonesia: <br>\npunya karya dan takut badut atau <br>\njago main gitar dan hobi berenang <br>\nJika Rangga tidak takut badut dan tidak hobi berenang, <br>\nmaka Rangga tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Rangga gak takut badut dan gak hobi berenang yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"punya karya dan takut badut\" <br>\nmaupun syarat \"jago main gitar dan hobi berenang\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Rangga gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57cae9fc468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi artis Hollywood: <br>\npunya becak dan memiliki rambut atau <br>\npernah ditilang dan hobi berenang <br>\nJika Mawar tidak memiliki rambut dan tidak hobi berenang, <br>\nmaka Mawar tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Mawar gak memiliki rambut dan gak hobi berenang yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"punya becak dan memiliki rambut\" <br>\nmaupun syarat \"pernah ditilang dan hobi berenang\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Mawar gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57cae9fd468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk naik kereta: <br>\nsuka Harry Potter dan murah hati atau <br>\nsayang ibu dan jago bikin meme <br>\nJika Momos tidak murah hati dan tidak jago bikin meme, <br>\nmaka Momos tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Momos gak murah hati dan gak jago bikin meme yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"suka Harry Potter dan murah hati\" <br>\nmaupun syarat \"sayang ibu dan jago bikin meme\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Momos gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57cae9fe468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi pujaannya: <br>\nmudah baper dan phobia cicak atau <br>\njago main gitar dan jago bikin meme <br>\nJika Marimar tidak phobia cicak dan tidak jago bikin meme, <br>\nmaka Marimar tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Marimar gak phobia cicak dan gak jago bikin meme yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"mudah baper dan phobia cicak\" <br>\nmaupun syarat \"jago main gitar dan jago bikin meme\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Marimar gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57cae9ff468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi orang terkenal: <br>\npunya becak dan takut badut atau <br>\npernah ditilang dan jago bikin meme <br>\nJika Kecoa tidak takut badut dan tidak jago bikin meme, <br>\nmaka Kecoa tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Kecoa gak takut badut dan gak jago bikin meme yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"punya becak dan takut badut\" <br>\nmaupun syarat \"pernah ditilang dan jago bikin meme\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Kecoa gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57caea00468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk pulang kampung: <br>\nsuka ketoprak dan berkaki lima atau <br>\npernah ditilang dan suka bubur diaduk <br>\nJika Mawar tidak berkaki lima dan tidak suka bubur diaduk, <br>\nmaka Mawar tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Mawar gak berkaki lima dan gak suka bubur diaduk yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"suka ketoprak dan berkaki lima\" <br>\nmaupun syarat \"pernah ditilang dan suka bubur diaduk\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Mawar gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57caea01468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi artis Hollywood: <br>\nsetia dan murah hati atau <br>\nsayang ibu dan tidak merokok <br>\nJika Rosalinda tidak murah hati dan tidak tidak merokok, <br>\nmaka Rosalinda tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Rosalinda gak murah hati dan gak tidak merokok yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"setia dan murah hati\" <br>\nmaupun syarat \"sayang ibu dan tidak merokok\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Rosalinda gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57caea02468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi Miss Indonesia: <br>\nsuka Harry Potter dan hobi masak atau <br>\nsayang ibu dan tidak merokok <br>\nJika Pegasus tidak hobi masak dan tidak tidak merokok, <br>\nmaka Pegasus tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Pegasus gak hobi masak dan gak tidak merokok yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"suka Harry Potter dan hobi masak\" <br>\nmaupun syarat \"sayang ibu dan tidak merokok\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Pegasus gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57caea03468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi gubernur: <br>\npernah diputusin dan punya sepeda atau <br>\npenuh cinta dan tidak merokok <br>\nJika Sarkonah tidak punya sepeda dan tidak tidak merokok, <br>\nmaka Sarkonah tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Sarkonah gak punya sepeda dan gak tidak merokok yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"pernah diputusin dan punya sepeda\" <br>\nmaupun syarat \"penuh cinta dan tidak merokok\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Sarkonah gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57caea04468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi artis Hollywood: <br>\npunya karya dan takut badut atau <br>\npernah ditilang dan sedikit bandel <br>\nJika Pegasus tidak takut badut dan tidak sedikit bandel, <br>\nmaka Pegasus tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Pegasus gak takut badut dan gak sedikit bandel yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"punya karya dan takut badut\" <br>\nmaupun syarat \"pernah ditilang dan sedikit bandel\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Pegasus gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57caea05468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk diterima di UI: <br>\nsuka sate dan phobia cicak atau <br>\nsayang ibu dan tidak merokok <br>\nJika Kecoa tidak phobia cicak dan tidak tidak merokok, <br>\nmaka Kecoa tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Kecoa gak phobia cicak dan gak tidak merokok yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"suka sate dan phobia cicak\" <br>\nmaupun syarat \"sayang ibu dan tidak merokok\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Kecoa gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57caea06468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi pujaannya: <br>\npernah diputusin dan mempesona atau <br>\ntulus dan pernah galau <br>\nJika Fernando tidak mempesona dan tidak pernah galau, <br>\nmaka Fernando tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Fernando gak mempesona dan gak pernah galau yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"pernah diputusin dan mempesona\" <br>\nmaupun syarat \"tulus dan pernah galau\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Fernando gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57caea07468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi gubernur: <br>\nmudah baper dan berkaki lima atau <br>\npernah ditilang dan hobi berenang <br>\nJika Suneo tidak berkaki lima dan tidak hobi berenang, <br>\nmaka Suneo tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Suneo gak berkaki lima dan gak hobi berenang yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"mudah baper dan berkaki lima\" <br>\nmaupun syarat \"pernah ditilang dan hobi berenang\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Suneo gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57caea08468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi orang terkenal: <br>\nsuka ketoprak dan phobia cicak atau <br>\npenuh cinta dan suka bubur diaduk <br>\nJika Zenia tidak phobia cicak dan tidak suka bubur diaduk, <br>\nmaka Zenia tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Zenia gak phobia cicak dan gak suka bubur diaduk yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"suka ketoprak dan phobia cicak\" <br>\nmaupun syarat \"penuh cinta dan suka bubur diaduk\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Zenia gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57caea09468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk membeli rumah: <br>\nsuka sate dan punya sepeda atau <br>\npenuh cinta dan tidak merokok <br>\nJika Kecoa tidak punya sepeda dan tidak tidak merokok, <br>\nmaka Kecoa tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Kecoa gak punya sepeda dan gak tidak merokok yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"suka sate dan punya sepeda\" <br>\nmaupun syarat \"penuh cinta dan tidak merokok\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Kecoa gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57caea0a468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk mendapatkan cintanya: <br>\nsuka sate dan berkaki lima atau <br>\ntulus dan pernah galau <br>\nJika Momos tidak berkaki lima dan tidak pernah galau, <br>\nmaka Momos tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Momos gak berkaki lima dan gak pernah galau yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"suka sate dan berkaki lima\" <br>\nmaupun syarat \"tulus dan pernah galau\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Momos gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57caea0b468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi gubernur: <br>\nsetia dan berkaki lima atau <br>\ntulus dan pernah galau <br>\nJika Zenia tidak berkaki lima dan tidak pernah galau, <br>\nmaka Zenia tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Zenia gak berkaki lima dan gak pernah galau yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"setia dan berkaki lima\" <br>\nmaupun syarat \"tulus dan pernah galau\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Zenia gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57caea0c468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi pujaannya: <br>\npernah diputusin dan memiliki rambut atau <br>\njago main gitar dan hobi berenang <br>\nJika Suneo tidak memiliki rambut dan tidak hobi berenang, <br>\nmaka Suneo tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Suneo gak memiliki rambut dan gak hobi berenang yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"pernah diputusin dan memiliki rambut\" <br>\nmaupun syarat \"jago main gitar dan hobi berenang\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Suneo gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57caea0d468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk membeli rumah: <br>\nsuka sate dan pernah ditilang atau <br>\npernah ditilang dan suka bubur diaduk <br>\nJika Fernando tidak pernah ditilang dan tidak suka bubur diaduk, <br>\nmaka Fernando tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Fernando gak pernah ditilang dan gak suka bubur diaduk yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"suka sate dan pernah ditilang\" <br>\nmaupun syarat \"pernah ditilang dan suka bubur diaduk\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Fernando gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57caea0e468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi pujaannya: <br>\nsuka sate dan phobia cicak atau <br>\nsayang ibu dan sedikit bandel <br>\nJika Delima tidak phobia cicak dan tidak sedikit bandel, <br>\nmaka Delima tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Delima gak phobia cicak dan gak sedikit bandel yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"suka sate dan phobia cicak\" <br>\nmaupun syarat \"sayang ibu dan sedikit bandel\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Delima gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57caea0f468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi orang terkenal: <br>\npernah patah hati dan mempesona atau <br>\nsuka menari dan jago bikin meme <br>\nJika Pegasus tidak mempesona dan tidak jago bikin meme, <br>\nmaka Pegasus tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Pegasus gak mempesona dan gak jago bikin meme yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"pernah patah hati dan mempesona\" <br>\nmaupun syarat \"suka menari dan jago bikin meme\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Pegasus gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57caea10468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi pujaannya: <br>\nsuka sate dan takut badut atau <br>\npernah ditilang dan suka bubur diaduk <br>\nJika Pejantan Tangguh tidak takut badut dan tidak suka bubur diaduk, <br>\nmaka Pejantan Tangguh tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Pejantan Tangguh gak takut badut dan gak suka bubur diaduk yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"suka sate dan takut badut\" <br>\nmaupun syarat \"pernah ditilang dan suka bubur diaduk\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Pejantan Tangguh gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57caea11468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk diterima di ITB: <br>\npunya karya dan berkaki lima atau <br>\npernah ditilang dan suka bubur diaduk <br>\nJika Kecoa tidak berkaki lima dan tidak suka bubur diaduk, <br>\nmaka Kecoa tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Kecoa gak berkaki lima dan gak suka bubur diaduk yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"punya karya dan berkaki lima\" <br>\nmaupun syarat \"pernah ditilang dan suka bubur diaduk\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Kecoa gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57caea12468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk membeli rumah: <br>\nmudah rindu dan hobi masak atau <br>\nbucin dan pernah galau <br>\nJika Fernando tidak hobi masak dan tidak pernah galau, <br>\nmaka Fernando tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Fernando gak hobi masak dan gak pernah galau yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"mudah rindu dan hobi masak\" <br>\nmaupun syarat \"bucin dan pernah galau\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Fernando gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57caea13468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi Miss Indonesia: <br>\nsuka Harry Potter dan berkaki lima atau <br>\nsuka menari dan sedikit bandel <br>\nJika Mawar tidak berkaki lima dan tidak sedikit bandel, <br>\nmaka Mawar tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Mawar gak berkaki lima dan gak sedikit bandel yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"suka Harry Potter dan berkaki lima\" <br>\nmaupun syarat \"suka menari dan sedikit bandel\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Mawar gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57caea14468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi pahlawan: <br>\nsetia dan pernah ditilang atau <br>\npernah ditilang dan suka bubur diaduk <br>\nJika Pablo tidak pernah ditilang dan tidak suka bubur diaduk, <br>\nmaka Pablo tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Pablo gak pernah ditilang dan gak suka bubur diaduk yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"setia dan pernah ditilang\" <br>\nmaupun syarat \"pernah ditilang dan suka bubur diaduk\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Pablo gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57caea15468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi Miss Indonesia: <br>\npunya becak dan pernah ditilang atau <br>\nsayang ibu dan suka bubur diaduk <br>\nJika Zenia tidak pernah ditilang dan tidak suka bubur diaduk, <br>\nmaka Zenia tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Zenia gak pernah ditilang dan gak suka bubur diaduk yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"punya becak dan pernah ditilang\" <br>\nmaupun syarat \"sayang ibu dan suka bubur diaduk\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Zenia gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57caea16468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk membeli rumah: <br>\npunya becak dan jago fisika atau <br>\njago main gitar dan jago bikin meme <br>\nJika Rangga tidak jago fisika dan tidak jago bikin meme, <br>\nmaka Rangga tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Rangga gak jago fisika dan gak jago bikin meme yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"punya becak dan jago fisika\" <br>\nmaupun syarat \"jago main gitar dan jago bikin meme\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Rangga gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57caea17468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk naik kereta: <br>\npernah diputusin dan jago main bola atau <br>\npernah ditilang dan sedikit bandel <br>\nJika Rosalinda tidak jago main bola dan tidak sedikit bandel, <br>\nmaka Rosalinda tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Rosalinda gak jago main bola dan gak sedikit bandel yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"pernah diputusin dan jago main bola\" <br>\nmaupun syarat \"pernah ditilang dan sedikit bandel\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Rosalinda gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57caea18468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk pulang kampung: <br>\nsuka Harry Potter dan berkaki lima atau <br>\nsayang ibu dan suka bubur diaduk <br>\nJika Zenia tidak berkaki lima dan tidak suka bubur diaduk, <br>\nmaka Zenia tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Zenia gak berkaki lima dan gak suka bubur diaduk yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"suka Harry Potter dan berkaki lima\" <br>\nmaupun syarat \"sayang ibu dan suka bubur diaduk\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Zenia gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57caea19468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi pujaannya: <br>\npernah diputusin dan fans Black Pink atau <br>\nsuka menari dan tidak merokok <br>\nJika Mawar tidak fans Black Pink dan tidak tidak merokok, <br>\nmaka Mawar tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Mawar gak fans Black Pink dan gak tidak merokok yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"pernah diputusin dan fans Black Pink\" <br>\nmaupun syarat \"suka menari dan tidak merokok\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Mawar gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57caea1a468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk naik kereta: <br>\nmudah rindu dan murah hati atau <br>\nsayang ibu dan hobi berenang <br>\nJika Delima tidak murah hati dan tidak hobi berenang, <br>\nmaka Delima tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Delima gak murah hati dan gak hobi berenang yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"mudah rindu dan murah hati\" <br>\nmaupun syarat \"sayang ibu dan hobi berenang\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Delima gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57caea1b468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi gubernur: <br>\nmudah baper dan takut badut atau <br>\npenuh cinta dan pernah galau <br>\nJika Pablo tidak takut badut dan tidak pernah galau, <br>\nmaka Pablo tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Pablo gak takut badut dan gak pernah galau yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"mudah baper dan takut badut\" <br>\nmaupun syarat \"penuh cinta dan pernah galau\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Pablo gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57caea1c468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi cinta sejatinya: <br>\nsuka sate dan hobi masak atau <br>\nsuka menari dan jago bikin meme <br>\nJika Pejantan Tangguh tidak hobi masak dan tidak jago bikin meme, <br>\nmaka Pejantan Tangguh tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Pejantan Tangguh gak hobi masak dan gak jago bikin meme yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"suka sate dan hobi masak\" <br>\nmaupun syarat \"suka menari dan jago bikin meme\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Pejantan Tangguh gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57caea1d468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi orang terkenal: <br>\npernah diputusin dan hobi masak atau <br>\nsuka menari dan jago bikin meme <br>\nJika Pegasus tidak hobi masak dan tidak jago bikin meme, <br>\nmaka Pegasus tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Pegasus gak hobi masak dan gak jago bikin meme yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"pernah diputusin dan hobi masak\" <br>\nmaupun syarat \"suka menari dan jago bikin meme\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Pegasus gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57caea1e468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk diterima di ITB: <br>\nsetia dan phobia cicak atau <br>\nbucin dan sedikit bandel <br>\nJika Fernando tidak phobia cicak dan tidak sedikit bandel, <br>\nmaka Fernando tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Fernando gak phobia cicak dan gak sedikit bandel yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"setia dan phobia cicak\" <br>\nmaupun syarat \"bucin dan sedikit bandel\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Fernando gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57caea1f468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi peternak: <br>\nsuka sate dan murah hati atau <br>\npenuh cinta dan jago bikin meme <br>\nJika Melati tidak murah hati dan tidak jago bikin meme, <br>\nmaka Melati tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Melati gak murah hati dan gak jago bikin meme yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"suka sate dan murah hati\" <br>\nmaupun syarat \"penuh cinta dan jago bikin meme\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Melati gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57caea20468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi gubernur: <br>\nsetia dan takut badut atau <br>\nsayang ibu dan sedikit bandel <br>\nJika Kelinci tidak takut badut dan tidak sedikit bandel, <br>\nmaka Kelinci tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Kelinci gak takut badut dan gak sedikit bandel yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"setia dan takut badut\" <br>\nmaupun syarat \"sayang ibu dan sedikit bandel\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Kelinci gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57caea21468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi peternak: <br>\nsuka ketoprak dan punya sepeda atau <br>\npernah ditilang dan sedikit bandel <br>\nJika Pejantan Tangguh tidak punya sepeda dan tidak sedikit bandel, <br>\nmaka Pejantan Tangguh tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Pejantan Tangguh gak punya sepeda dan gak sedikit bandel yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"suka ketoprak dan punya sepeda\" <br>\nmaupun syarat \"pernah ditilang dan sedikit bandel\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Pejantan Tangguh gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57caea22468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk diterima di ITB: <br>\nsuka sate dan hobi masak atau <br>\nsayang ibu dan pernah galau <br>\nJika Pablo tidak hobi masak dan tidak pernah galau, <br>\nmaka Pablo tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Pablo gak hobi masak dan gak pernah galau yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"suka sate dan hobi masak\" <br>\nmaupun syarat \"sayang ibu dan pernah galau\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Pablo gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57caea23468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi cinta sejatinya: <br>\nsetia dan fans Black Pink atau <br>\nsuka menari dan jago bikin meme <br>\nJika Momos tidak fans Black Pink dan tidak jago bikin meme, <br>\nmaka Momos tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Momos gak fans Black Pink dan gak jago bikin meme yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"setia dan fans Black Pink\" <br>\nmaupun syarat \"suka menari dan jago bikin meme\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Momos gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57caea24468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi artis Hollywood: <br>\npernah patah hati dan pernah ditilang atau <br>\nsayang ayah dan jago bikin meme <br>\nJika Zenia tidak pernah ditilang dan tidak jago bikin meme, <br>\nmaka Zenia tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Zenia gak pernah ditilang dan gak jago bikin meme yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"pernah patah hati dan pernah ditilang\" <br>\nmaupun syarat \"sayang ayah dan jago bikin meme\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Zenia gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57caea25468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk pulang kampung: <br>\npunya karya dan memiliki rambut atau <br>\npenuh cinta dan pernah galau <br>\nJika Kelinci tidak memiliki rambut dan tidak pernah galau, <br>\nmaka Kelinci tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Kelinci gak memiliki rambut dan gak pernah galau yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"punya karya dan memiliki rambut\" <br>\nmaupun syarat \"penuh cinta dan pernah galau\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Kelinci gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57caea26468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk pulang kampung: <br>\nmudah rindu dan punya sepeda atau <br>\npenuh cinta dan pernah galau <br>\nJika Marimar tidak punya sepeda dan tidak pernah galau, <br>\nmaka Marimar tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Marimar gak punya sepeda dan gak pernah galau yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"mudah rindu dan punya sepeda\" <br>\nmaupun syarat \"penuh cinta dan pernah galau\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Marimar gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57caea27468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi pujaannya: <br>\nsetia dan takut badut atau <br>\npernah ditilang dan suka bubur diaduk <br>\nJika Melati tidak takut badut dan tidak suka bubur diaduk, <br>\nmaka Melati tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Melati gak takut badut dan gak suka bubur diaduk yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"setia dan takut badut\" <br>\nmaupun syarat \"pernah ditilang dan suka bubur diaduk\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Melati gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57caea28468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi peternak: <br>\nsetia dan pernah ditilang atau <br>\npenuh cinta dan hobi berenang <br>\nJika Marimar tidak pernah ditilang dan tidak hobi berenang, <br>\nmaka Marimar tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Marimar gak pernah ditilang dan gak hobi berenang yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"setia dan pernah ditilang\" <br>\nmaupun syarat \"penuh cinta dan hobi berenang\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Marimar gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57caea29468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi pahlawan: <br>\nmudah baper dan phobia cicak atau <br>\nsayang ibu dan suka bubur diaduk <br>\nJika Kecoa tidak phobia cicak dan tidak suka bubur diaduk, <br>\nmaka Kecoa tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Kecoa gak phobia cicak dan gak suka bubur diaduk yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"mudah baper dan phobia cicak\" <br>\nmaupun syarat \"sayang ibu dan suka bubur diaduk\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Kecoa gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57caea2a468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi peternak: <br>\npunya becak dan fans Black Pink atau <br>\npenuh cinta dan suka bubur diaduk <br>\nJika Melati tidak fans Black Pink dan tidak suka bubur diaduk, <br>\nmaka Melati tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Melati gak fans Black Pink dan gak suka bubur diaduk yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"punya becak dan fans Black Pink\" <br>\nmaupun syarat \"penuh cinta dan suka bubur diaduk\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Melati gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57caea2b468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi pujaannya: <br>\nsuka Harry Potter dan fans Black Pink atau <br>\nbucin dan pernah galau <br>\nJika Melati tidak fans Black Pink dan tidak pernah galau, <br>\nmaka Melati tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Melati gak fans Black Pink dan gak pernah galau yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"suka Harry Potter dan fans Black Pink\" <br>\nmaupun syarat \"bucin dan pernah galau\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Melati gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57caea2c468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk menjadi artis Hollywood: <br>\npunya karya dan mempesona atau <br>\nsayang ayah dan tidak merokok <br>\nJika Pejantan Tangguh tidak mempesona dan tidak tidak merokok, <br>\nmaka Pejantan Tangguh tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Pejantan Tangguh gak mempesona dan gak tidak merokok yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"punya karya dan mempesona\" <br>\nmaupun syarat \"sayang ayah dan tidak merokok\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Pejantan Tangguh gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57caea2d468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk diterima di ITB: <br>\nmudah baper dan pernah ditilang atau <br>\npernah ditilang dan jago bikin meme <br>\nJika Rangga tidak pernah ditilang dan tidak jago bikin meme, <br>\nmaka Rangga tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Rangga gak pernah ditilang dan gak jago bikin meme yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"mudah baper dan pernah ditilang\" <br>\nmaupun syarat \"pernah ditilang dan jago bikin meme\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Rangga gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57caea2e468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk diterima di ITB: <br>\nsuka sate dan hobi masak atau <br>\nsayang ibu dan pernah galau <br>\nJika Momos tidak hobi masak dan tidak pernah galau, <br>\nmaka Momos tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Momos gak hobi masak dan gak pernah galau yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"suka sate dan hobi masak\" <br>\nmaupun syarat \"sayang ibu dan pernah galau\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Momos gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57caea2f468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk diterima di ITB: <br>\npunya karya dan pernah ditilang atau <br>\npernah ditilang dan sedikit bandel <br>\nJika Pegasus tidak pernah ditilang dan tidak sedikit bandel, <br>\nmaka Pegasus tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Pegasus gak pernah ditilang dan gak sedikit bandel yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"punya karya dan pernah ditilang\" <br>\nmaupun syarat \"pernah ditilang dan sedikit bandel\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Pegasus gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57caea30468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk diterima di ITB: <br>\nsuka sate dan jago fisika atau <br>\npenuh cinta dan pernah galau <br>\nJika Kelinci tidak jago fisika dan tidak pernah galau, <br>\nmaka Kelinci tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[true "Valid " 0] [false " Tidak valid" 1]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Kelinci gak jago fisika dan gak pernah galau yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"suka sate dan jago fisika\" <br>\nmaupun syarat \"penuh cinta dan pernah galau\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Kelinci gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57caea31468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk diterima di UI: <br>\npunya karya dan berkaki lima atau <br>\nbucin dan pernah galau <br>\nJika Kelinci tidak berkaki lima dan tidak pernah galau, <br>\nmaka Kelinci tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Kelinci gak berkaki lima dan gak pernah galau yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"punya karya dan berkaki lima\" <br>\nmaupun syarat \"bucin dan pernah galau\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Kelinci gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57caea32468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n<p>\n\nBerikut adalah persyaratan untuk diterima di ITB: <br>\npunya becak dan punya sepeda atau <br>\nsayang ayah dan hobi berenang <br>\nJika Zenia tidak punya sepeda dan tidak hobi berenang, <br>\nmaka Zenia tidak memenuhi persyaratan.\n\n</p>\n\n",
+   :options [[false " Tidak valid" 0] [true "Valid " 1]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n\nJadi kan si Zenia gak punya sepeda dan gak hobi berenang yaa, <br>\nnah itu artinya dia gak memenuhi syarat \"punya becak dan punya sepeda\" <br>\nmaupun syarat \"sayang ayah dan hobi berenang\" <br>\nDari sini kita bisa narik kesimpulan deh, yaitu si Zenia gak memenuhi persyaratan.\n\n</p>\n",
+  :template-id "d286da70448e11eba53b81e59324e143",
+  :topic :logic,
+  :problem-id "57caea33468611eba53b81e59324e143"}]

@@ -1,0 +1,1800 @@
+[{:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    18 - 4 = _____\n</p>\n\n",
+   :options
+   [[false "15 " 0]
+    [false "12 " 1]
+    [true "14 " 2]
+    [false "11 " 3]
+    [false "13" 4]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567e93b0468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    8 - 5 = _____\n</p>\n\n",
+   :options
+   [[false "2 " 0]
+    [true "3 " 1]
+    [false "5" 2]
+    [false "0 " 3]
+    [false "1 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebac0468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    19 - 3 = _____\n</p>\n\n",
+   :options
+   [[false "14" 0]
+    [false "18 " 1]
+    [false "17 " 2]
+    [false "13 " 3]
+    [true "16 " 4]],
+   :jawaban "E"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebac1468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    11 - 9 = _____\n</p>\n\n",
+   :options
+   [[false "0 " 0]
+    [false "4 " 1]
+    [false "3" 2]
+    [false "1 " 3]
+    [true "2 " 4]],
+   :jawaban "E"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebac2468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    15 - 2 = _____\n</p>\n\n",
+   :options
+   [[false "10 " 0]
+    [true "13 " 1]
+    [false "14 " 2]
+    [false "12" 3]
+    [false "11 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebac3468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    9 - 2 = _____\n</p>\n\n",
+   :options
+   [[false "8 " 0]
+    [false "9 " 1]
+    [false "6" 2]
+    [true "7 " 3]
+    [false "5 " 4]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebac4468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    19 - 6 = _____\n</p>\n\n",
+   :options
+   [[false "11 " 0]
+    [false "15 " 1]
+    [false "14" 2]
+    [true "13 " 3]
+    [false "12 " 4]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebac5468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    14 - 8 = _____\n</p>\n\n",
+   :options
+   [[true "6 " 0]
+    [false "7 " 1]
+    [false "4 " 2]
+    [false "3" 3]
+    [false "5 " 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebac6468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    6 - 5 = _____\n</p>\n\n",
+   :options
+   [[false "-1" 0]
+    [false "0 " 1]
+    [false "2 " 2]
+    [true "1 " 3]
+    [false "3 " 4]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebac7468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    14 - 1 = _____\n</p>\n\n",
+   :options
+   [[true "13 " 0]
+    [false "14" 1]
+    [false "11 " 2]
+    [false "15 " 3]
+    [false "12 " 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebac8468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    12 - 9 = _____\n</p>\n\n",
+   :options
+   [[false "5 " 0]
+    [false "0" 1]
+    [true "3 " 2]
+    [false "1 " 3]
+    [false "2 " 4]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebac9468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    19 - 9 = _____\n</p>\n\n",
+   :options
+   [[true "10 " 0]
+    [false "9 " 1]
+    [false "7 " 2]
+    [false "8 " 3]
+    [false "11" 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebaca468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    18 - 8 = _____\n</p>\n\n",
+   :options
+   [[false "8" 0]
+    [false "9 " 1]
+    [false "11 " 2]
+    [false "7 " 3]
+    [true "10 " 4]],
+   :jawaban "E"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebacb468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    17 - 2 = _____\n</p>\n\n",
+   :options
+   [[false "14 " 0]
+    [false "13 " 1]
+    [true "15 " 2]
+    [false "16 " 3]
+    [false "17" 4]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebacc468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    14 - 4 = _____\n</p>\n\n",
+   :options
+   [[true "10 " 0]
+    [false "7 " 1]
+    [false "9" 2]
+    [false "12 " 3]
+    [false "11 " 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebacd468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    11 - 8 = _____\n</p>\n\n",
+   :options
+   [[false "2 " 0]
+    [true "3 " 1]
+    [false "0" 2]
+    [false "5 " 3]
+    [false "1 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebace468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    10 - 9 = _____\n</p>\n\n",
+   :options
+   [[false "2 " 0]
+    [false "0" 1]
+    [false "-2 " 2]
+    [false "-1 " 3]
+    [true "1 " 4]],
+   :jawaban "E"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebacf468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    8 - 4 = _____\n</p>\n\n",
+   :options
+   [[false "6 " 0]
+    [false "5 " 1]
+    [false "1" 2]
+    [false "2 " 3]
+    [true "4 " 4]],
+   :jawaban "E"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebad0468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    17 - 3 = _____\n</p>\n\n",
+   :options
+   [[false "16" 0]
+    [true "14 " 1]
+    [false "12 " 2]
+    [false "13 " 3]
+    [false "15 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebad1468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    5 - 4 = _____\n</p>\n\n",
+   :options
+   [[false "0" 0]
+    [false "-2 " 1]
+    [true "1 " 2]
+    [false "-1 " 3]
+    [false "2 " 4]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebad2468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    9 - 7 = _____\n</p>\n\n",
+   :options
+   [[false "4 " 0]
+    [true "2 " 1]
+    [false "0" 2]
+    [false "3 " 3]
+    [false "-1 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebad3468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    12 - 3 = _____\n</p>\n\n",
+   :options
+   [[false "6 " 0]
+    [true "9 " 1]
+    [false "10 " 2]
+    [false "11 " 3]
+    [false "8" 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebad4468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    17 - 1 = _____\n</p>\n\n",
+   :options
+   [[false "18 " 0]
+    [false "15" 1]
+    [false "13 " 2]
+    [false "17 " 3]
+    [true "16 " 4]],
+   :jawaban "E"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebad5468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    10 - 4 = _____\n</p>\n\n",
+   :options
+   [[false "8 " 0]
+    [true "6 " 1]
+    [false "7" 2]
+    [false "4 " 3]
+    [false "5 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebad6468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    10 - 2 = _____\n</p>\n\n",
+   :options
+   [[false "10 " 0]
+    [false "6 " 1]
+    [true "8 " 2]
+    [false "7 " 3]
+    [false "5" 4]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebad7468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    16 - 7 = _____\n</p>\n\n",
+   :options
+   [[false "10 " 0]
+    [true "9 " 1]
+    [false "6 " 2]
+    [false "11 " 3]
+    [false "8" 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebad8468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    17 - 7 = _____\n</p>\n\n",
+   :options
+   [[false "12 " 0]
+    [false "8 " 1]
+    [false "7" 2]
+    [true "10 " 3]
+    [false "11 " 4]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebad9468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    13 - 7 = _____\n</p>\n\n",
+   :options
+   [[false "4 " 0]
+    [false "3" 1]
+    [true "6 " 2]
+    [false "8 " 3]
+    [false "7 " 4]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebada468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    15 - 7 = _____\n</p>\n\n",
+   :options
+   [[true "8 " 0]
+    [false "10 " 1]
+    [false "6" 2]
+    [false "9 " 3]
+    [false "7 " 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebadb468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    11 - 3 = _____\n</p>\n\n",
+   :options
+   [[false "9 " 0]
+    [false "6 " 1]
+    [false "7 " 2]
+    [true "8 " 3]
+    [false "10" 4]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebadc468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    11 - 7 = _____\n</p>\n\n",
+   :options
+   [[false "1" 0]
+    [true "4 " 1]
+    [false "2 " 2]
+    [false "6 " 3]
+    [false "5 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebadd468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    15 - 1 = _____\n</p>\n\n",
+   :options
+   [[true "14 " 0]
+    [false "16 " 1]
+    [false "15 " 2]
+    [false "12" 3]
+    [false "13 " 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebade468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    16 - 6 = _____\n</p>\n\n",
+   :options
+   [[true "10 " 0]
+    [false "8 " 1]
+    [false "9" 2]
+    [false "11 " 3]
+    [false "7 " 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebadf468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    11 - 5 = _____\n</p>\n\n",
+   :options
+   [[false "3" 0]
+    [true "6 " 1]
+    [false "7 " 2]
+    [false "5 " 3]
+    [false "4 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebae0468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    9 - 1 = _____\n</p>\n\n",
+   :options
+   [[false "6 " 0]
+    [true "8 " 1]
+    [false "5 " 2]
+    [false "7 " 3]
+    [false "10" 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebae1468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    17 - 6 = _____\n</p>\n\n",
+   :options
+   [[false "12 " 0]
+    [false "9 " 1]
+    [false "8 " 2]
+    [false "13" 3]
+    [true "11 " 4]],
+   :jawaban "E"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebae2468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    18 - 6 = _____\n</p>\n\n",
+   :options
+   [[false "11 " 0]
+    [true "12 " 1]
+    [false "14 " 2]
+    [false "10" 3]
+    [false "13 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebae3468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    14 - 7 = _____\n</p>\n\n",
+   :options
+   [[false "5 " 0]
+    [false "4" 1]
+    [true "7 " 2]
+    [false "9 " 3]
+    [false "8 " 4]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebae4468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    17 - 4 = _____\n</p>\n\n",
+   :options
+   [[false "11" 0]
+    [false "14 " 1]
+    [false "12 " 2]
+    [true "13 " 3]
+    [false "10 " 4]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebae5468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    16 - 3 = _____\n</p>\n\n",
+   :options
+   [[false "15 " 0]
+    [true "13 " 1]
+    [false "12" 2]
+    [false "14 " 3]
+    [false "11 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebae6468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    16 - 4 = _____\n</p>\n\n",
+   :options
+   [[false "9 " 0]
+    [true "12 " 1]
+    [false "13" 2]
+    [false "11 " 3]
+    [false "10 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebae7468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    13 - 3 = _____\n</p>\n\n",
+   :options
+   [[false "8 " 0]
+    [true "10 " 1]
+    [false "7 " 2]
+    [false "9 " 3]
+    [false "12" 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebae8468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    7 - 4 = _____\n</p>\n\n",
+   :options
+   [[false "4 " 0]
+    [false "0 " 1]
+    [true "3 " 2]
+    [false "2" 3]
+    [false "5 " 4]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebae9468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    15 - 5 = _____\n</p>\n\n",
+   :options
+   [[false "9 " 0]
+    [true "10 " 1]
+    [false "11 " 2]
+    [false "12" 3]
+    [false "8 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebaea468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    11 - 1 = _____\n</p>\n\n",
+   :options
+   [[false "8 " 0]
+    [false "11 " 1]
+    [false "7" 2]
+    [false "12 " 3]
+    [true "10 " 4]],
+   :jawaban "E"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebaeb468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    12 - 6 = _____\n</p>\n\n",
+   :options
+   [[false "5 " 0]
+    [false "3 " 1]
+    [false "8" 2]
+    [false "7 " 3]
+    [true "6 " 4]],
+   :jawaban "E"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebaec468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    7 - 3 = _____\n</p>\n\n",
+   :options
+   [[false "5" 0]
+    [false "1 " 1]
+    [false "2 " 2]
+    [true "4 " 3]
+    [false "3 " 4]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebaed468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    8 - 3 = _____\n</p>\n\n",
+   :options
+   [[true "5 " 0]
+    [false "3 " 1]
+    [false "4 " 2]
+    [false "2 " 3]
+    [false "7" 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebaee468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    15 - 3 = _____\n</p>\n\n",
+   :options
+   [[false "10" 0]
+    [true "12 " 1]
+    [false "14 " 2]
+    [false "13 " 3]
+    [false "11 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebaef468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    10 - 5 = _____\n</p>\n\n",
+   :options
+   [[false "7 " 0]
+    [true "5 " 1]
+    [false "2" 2]
+    [false "4 " 3]
+    [false "3 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebaf0468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    5 - 1 = _____\n</p>\n\n",
+   :options
+   [[false "3" 0]
+    [false "6 " 1]
+    [false "1 " 2]
+    [false "2 " 3]
+    [true "4 " 4]],
+   :jawaban "E"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebaf1468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    7 - 2 = _____\n</p>\n\n",
+   :options
+   [[false "4" 0]
+    [false "7 " 1]
+    [false "3 " 2]
+    [false "2 " 3]
+    [true "5 " 4]],
+   :jawaban "E"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebaf2468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    14 - 6 = _____\n</p>\n\n",
+   :options
+   [[true "8 " 0]
+    [false "10" 1]
+    [false "5 " 2]
+    [false "9 " 3]
+    [false "7 " 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebaf3468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    9 - 5 = _____\n</p>\n\n",
+   :options
+   [[false "3 " 0]
+    [true "4 " 1]
+    [false "5 " 2]
+    [false "6 " 3]
+    [false "1" 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebaf4468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    13 - 4 = _____\n</p>\n\n",
+   :options
+   [[false "11 " 0]
+    [true "9 " 1]
+    [false "10" 2]
+    [false "8 " 3]
+    [false "7 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebaf5468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    13 - 5 = _____\n</p>\n\n",
+   :options
+   [[true "8 " 0]
+    [false "9 " 1]
+    [false "5 " 2]
+    [false "6 " 3]
+    [false "10" 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebaf6468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    9 - 6 = _____\n</p>\n\n",
+   :options
+   [[false "0 " 0]
+    [true "3 " 1]
+    [false "5" 2]
+    [false "2 " 3]
+    [false "1 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebaf7468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    16 - 2 = _____\n</p>\n\n",
+   :options
+   [[false "15 " 0]
+    [true "14 " 1]
+    [false "11" 2]
+    [false "16 " 3]
+    [false "12 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebaf8468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    11 - 2 = _____\n</p>\n\n",
+   :options
+   [[false "8 " 0]
+    [true "9 " 1]
+    [false "6" 2]
+    [false "11 " 3]
+    [false "7 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebaf9468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    10 - 7 = _____\n</p>\n\n",
+   :options
+   [[false "0 " 0]
+    [false "4" 1]
+    [false "5 " 2]
+    [true "3 " 3]
+    [false "2 " 4]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebafa468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    10 - 6 = _____\n</p>\n\n",
+   :options
+   [[true "4 " 0]
+    [false "1" 1]
+    [false "2 " 2]
+    [false "3 " 3]
+    [false "6 " 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebafb468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    16 - 8 = _____\n</p>\n\n",
+   :options
+   [[true "8 " 0]
+    [false "6" 1]
+    [false "9 " 2]
+    [false "7 " 3]
+    [false "5 " 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebafc468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    18 - 1 = _____\n</p>\n\n",
+   :options
+   [[false "19 " 0]
+    [true "17 " 1]
+    [false "14 " 2]
+    [false "18 " 3]
+    [false "15" 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebafd468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    13 - 8 = _____\n</p>\n\n",
+   :options
+   [[false "2 " 0]
+    [false "3 " 1]
+    [false "6 " 2]
+    [false "7" 3]
+    [true "5 " 4]],
+   :jawaban "E"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebafe468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    14 - 2 = _____\n</p>\n\n",
+   :options
+   [[false "10 " 0]
+    [false "14 " 1]
+    [false "13" 2]
+    [false "9 " 3]
+    [true "12 " 4]],
+   :jawaban "E"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebaff468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    19 - 8 = _____\n</p>\n\n",
+   :options
+   [[false "9 " 0]
+    [false "10 " 1]
+    [true "11 " 2]
+    [false "8" 3]
+    [false "13 " 4]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebb00468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    16 - 5 = _____\n</p>\n\n",
+   :options
+   [[true "11 " 0]
+    [false "13 " 1]
+    [false "12" 2]
+    [false "8 " 3]
+    [false "10 " 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebb01468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    19 - 5 = _____\n</p>\n\n",
+   :options
+   [[false "15" 0]
+    [true "14 " 1]
+    [false "13 " 2]
+    [false "12 " 3]
+    [false "16 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebb02468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    14 - 3 = _____\n</p>\n\n",
+   :options
+   [[false "8" 0]
+    [true "11 " 1]
+    [false "10 " 2]
+    [false "9 " 3]
+    [false "13 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebb03468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    8 - 1 = _____\n</p>\n\n",
+   :options
+   [[true "7 " 0]
+    [false "5 " 1]
+    [false "9 " 2]
+    [false "6" 3]
+    [false "4 " 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebb04468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    18 - 9 = _____\n</p>\n\n",
+   :options
+   [[false "8 " 0]
+    [true "9 " 1]
+    [false "11 " 2]
+    [false "6" 3]
+    [false "10 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebb05468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    12 - 8 = _____\n</p>\n\n",
+   :options
+   [[false "2 " 0]
+    [false "1 " 1]
+    [true "4 " 2]
+    [false "5" 3]
+    [false "6 " 4]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebb06468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    12 - 5 = _____\n</p>\n\n",
+   :options
+   [[false "6 " 0]
+    [false "5 " 1]
+    [true "7 " 2]
+    [false "8 " 3]
+    [false "4" 4]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebb07468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    5 - 3 = _____\n</p>\n\n",
+   :options
+   [[false "-1 " 0]
+    [false "4 " 1]
+    [true "2 " 2]
+    [false "3 " 3]
+    [false "0" 4]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebb08468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    9 - 3 = _____\n</p>\n\n",
+   :options
+   [[false "8" 0]
+    [false "3 " 1]
+    [false "5 " 2]
+    [true "6 " 3]
+    [false "4 " 4]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebb09468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    6 - 2 = _____\n</p>\n\n",
+   :options
+   [[false "1 " 0]
+    [true "4 " 1]
+    [false "3" 2]
+    [false "6 " 3]
+    [false "2 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebb0a468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    17 - 8 = _____\n</p>\n\n",
+   :options
+   [[false "11" 0]
+    [false "10 " 1]
+    [false "8 " 2]
+    [false "6 " 3]
+    [true "9 " 4]],
+   :jawaban "E"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebb0b468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    18 - 5 = _____\n</p>\n\n",
+   :options
+   [[false "12 " 0]
+    [false "14" 1]
+    [true "13 " 2]
+    [false "11 " 3]
+    [false "15 " 4]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebb0c468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    8 - 6 = _____\n</p>\n\n",
+   :options
+   [[false "1" 0]
+    [true "2 " 1]
+    [false "0 " 2]
+    [false "4 " 3]
+    [false "-1 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebb0d468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    17 - 9 = _____\n</p>\n\n",
+   :options
+   [[true "8 " 0]
+    [false "6 " 1]
+    [false "7" 2]
+    [false "9 " 3]
+    [false "5 " 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebb0e468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    7 - 5 = _____\n</p>\n\n",
+   :options
+   [[true "2 " 0]
+    [false "-1 " 1]
+    [false "4 " 2]
+    [false "1" 3]
+    [false "3 " 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebb0f468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    7 - 1 = _____\n</p>\n\n",
+   :options
+   [[false "4" 0]
+    [true "6 " 1]
+    [false "3 " 2]
+    [false "8 " 3]
+    [false "5 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebb10468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    18 - 2 = _____\n</p>\n\n",
+   :options
+   [[false "14 " 0]
+    [false "17" 1]
+    [false "13 " 2]
+    [false "18 " 3]
+    [true "16 " 4]],
+   :jawaban "E"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebb11468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    13 - 6 = _____\n</p>\n\n",
+   :options
+   [[true "7 " 0]
+    [false "6" 1]
+    [false "9 " 2]
+    [false "8 " 3]
+    [false "5 " 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebb12468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    12 - 1 = _____\n</p>\n\n",
+   :options
+   [[false "8 " 0]
+    [false "13 " 1]
+    [false "12" 2]
+    [false "9 " 3]
+    [true "11 " 4]],
+   :jawaban "E"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebb13468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    18 - 3 = _____\n</p>\n\n",
+   :options
+   [[false "17 " 0]
+    [false "16 " 1]
+    [true "15 " 2]
+    [false "12" 3]
+    [false "14 " 4]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebb14468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    8 - 7 = _____\n</p>\n\n",
+   :options
+   [[false "2 " 0]
+    [false "0" 1]
+    [true "1 " 2]
+    [false "-2 " 3]
+    [false "3 " 4]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebb15468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    6 - 1 = _____\n</p>\n\n",
+   :options
+   [[true "5 " 0]
+    [false "4 " 1]
+    [false "3 " 2]
+    [false "2" 3]
+    [false "7 " 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebb16468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    16 - 1 = _____\n</p>\n\n",
+   :options
+   [[false "14 " 0]
+    [true "15 " 1]
+    [false "17" 2]
+    [false "12 " 3]
+    [false "16 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebb17468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    17 - 5 = _____\n</p>\n\n",
+   :options
+   [[false "11" 0]
+    [true "12 " 1]
+    [false "14 " 2]
+    [false "10 " 3]
+    [false "13 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebb18468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    14 - 9 = _____\n</p>\n\n",
+   :options
+   [[false "7 " 0]
+    [true "5 " 1]
+    [false "2 " 2]
+    [false "3 " 3]
+    [false "6" 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebb19468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    5 - 2 = _____\n</p>\n\n",
+   :options
+   [[false "2 " 0]
+    [false "1 " 1]
+    [false "5 " 2]
+    [true "3 " 3]
+    [false "0" 4]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebb1a468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    13 - 9 = _____\n</p>\n\n",
+   :options
+   [[false "2 " 0]
+    [false "3 " 1]
+    [true "4 " 2]
+    [false "5 " 3]
+    [false "1" 4]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebb1b468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    13 - 1 = _____\n</p>\n\n",
+   :options
+   [[true "12 " 0]
+    [false "10 " 1]
+    [false "9" 2]
+    [false "11 " 3]
+    [false "14 " 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebb1c468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    12 - 2 = _____\n</p>\n\n",
+   :options
+   [[false "12 " 0]
+    [false "9 " 1]
+    [true "10 " 2]
+    [false "7 " 3]
+    [false "8" 4]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebb1d468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    15 - 4 = _____\n</p>\n\n",
+   :options
+   [[false "12 " 0]
+    [true "11 " 1]
+    [false "9 " 2]
+    [false "10" 3]
+    [false "13 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebb1e468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    19 - 1 = _____\n</p>\n\n",
+   :options
+   [[false "19 " 0]
+    [false "17 " 1]
+    [false "15 " 2]
+    [false "16" 3]
+    [true "18 " 4]],
+   :jawaban "E"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebb1f468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    8 - 2 = _____\n</p>\n\n",
+   :options
+   [[false "5 " 0]
+    [false "3" 1]
+    [true "6 " 2]
+    [false "7 " 3]
+    [false "4 " 4]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebb20468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    16 - 9 = _____\n</p>\n\n",
+   :options
+   [[false "4 " 0]
+    [false "9 " 1]
+    [false "5" 2]
+    [true "7 " 3]
+    [false "6 " 4]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebb21468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    6 - 3 = _____\n</p>\n\n",
+   :options
+   [[true "3 " 0]
+    [false "0" 1]
+    [false "2 " 2]
+    [false "4 " 3]
+    [false "5 " 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebb22468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    10 - 3 = _____\n</p>\n\n",
+   :options
+   [[false "5 " 0]
+    [false "4 " 1]
+    [false "9 " 2]
+    [false "8" 3]
+    [true "7 " 4]],
+   :jawaban "E"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebb23468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    19 - 7 = _____\n</p>\n\n",
+   :options
+   [[true "12 " 0]
+    [false "9 " 1]
+    [false "10 " 2]
+    [false "11" 3]
+    [false "13 " 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebb24468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    15 - 9 = _____\n</p>\n\n",
+   :options
+   [[false "3" 0]
+    [false "5 " 1]
+    [true "6 " 2]
+    [false "4 " 3]
+    [false "8 " 4]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebb25468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    11 - 6 = _____\n</p>\n\n",
+   :options
+   [[false "3 " 0]
+    [false "6 " 1]
+    [false "7 " 2]
+    [false "4" 3]
+    [true "5 " 4]],
+   :jawaban "E"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebb26468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    6 - 4 = _____\n</p>\n\n",
+   :options
+   [[true "2 " 0]
+    [false "4 " 1]
+    [false "0" 2]
+    [false "3 " 3]
+    [false "1 " 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebb27468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    15 - 8 = _____\n</p>\n\n",
+   :options
+   [[false "5 " 0]
+    [true "7 " 1]
+    [false "9" 2]
+    [false "8 " 3]
+    [false "4 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebb28468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    9 - 8 = _____\n</p>\n\n",
+   :options
+   [[false "0 " 0]
+    [true "1 " 1]
+    [false "-2" 2]
+    [false "2 " 3]
+    [false "-1 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebb29468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    10 - 1 = _____\n</p>\n\n",
+   :options
+   [[true "9 " 0]
+    [false "7 " 1]
+    [false "10" 2]
+    [false "8 " 3]
+    [false "6 " 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebb2a468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    14 - 5 = _____\n</p>\n\n",
+   :options
+   [[false "11 " 0]
+    [true "9 " 1]
+    [false "8 " 2]
+    [false "10 " 3]
+    [false "7" 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebb2b468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    19 - 2 = _____\n</p>\n\n",
+   :options
+   [[false "18 " 0]
+    [true "17 " 1]
+    [false "15 " 2]
+    [false "14" 3]
+    [false "16 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebb2c468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    13 - 2 = _____\n</p>\n\n",
+   :options
+   [[false "9 " 0]
+    [true "11 " 1]
+    [false "8 " 2]
+    [false "12" 3]
+    [false "13 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebb2d468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    11 - 4 = _____\n</p>\n\n",
+   :options
+   [[false "5 " 0]
+    [false "6" 1]
+    [true "7 " 2]
+    [false "8 " 3]
+    [false "4 " 4]],
+   :jawaban "C"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebb2e468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    9 - 4 = _____\n</p>\n\n",
+   :options
+   [[false "7" 0]
+    [true "5 " 1]
+    [false "3 " 2]
+    [false "4 " 3]
+    [false "2 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebb2f468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    12 - 7 = _____\n</p>\n\n",
+   :options
+   [[true "5 " 0]
+    [false "4 " 1]
+    [false "3 " 2]
+    [false "7" 3]
+    [false "6 " 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebb30468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    19 - 4 = _____\n</p>\n\n",
+   :options
+   [[false "16" 0]
+    [true "15 " 1]
+    [false "17 " 2]
+    [false "14 " 3]
+    [false "13 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebb31468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    7 - 6 = _____\n</p>\n\n",
+   :options
+   [[false "-2 " 0]
+    [false "0" 1]
+    [false "-1 " 2]
+    [true "1 " 3]
+    [false "3 " 4]],
+   :jawaban "D"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebb32468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    12 - 4 = _____\n</p>\n\n",
+   :options
+   [[false "10 " 0]
+    [false "7 " 1]
+    [false "9" 2]
+    [false "5 " 3]
+    [true "8 " 4]],
+   :jawaban "E"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebb33468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    10 - 8 = _____\n</p>\n\n",
+   :options
+   [[false "1 " 0]
+    [true "2 " 1]
+    [false "4" 2]
+    [false "-1 " 3]
+    [false "3 " 4]],
+   :jawaban "B"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebb34468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    18 - 7 = _____\n</p>\n\n",
+   :options
+   [[false "9" 0]
+    [false "8 " 1]
+    [false "13 " 2]
+    [false "10 " 3]
+    [true "11 " 4]],
+   :jawaban "E"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebb35468611eba53b81e59324e143"}
+ {:soal
+  {:soal-text
+   "\n\n<p>\n    Isi blank di persamaan ini : <br>\n    15 - 6 = _____\n</p>\n\n",
+   :options
+   [[true "9 " 0]
+    [false "8 " 1]
+    [false "7 " 2]
+    [false "11 " 3]
+    [false "10" 4]],
+   :jawaban "A"},
+  :bahas
+  "\n\n<p>\n    Kalo satuannya lebih dari kanan, ya kurangin dulu satuan baru tambahin puluhannya\n    Misal 18 - 5 => 8-5 = 3 => 13\n    Ini seharusnya udah bisa ya, tinggal bikin makin cepet dan lancar aja.\n</p>",
+  :template-id "76b54240417d11eba53b81e59324e143",
+  :topic :math,
+  :problem-id "567ebb36468611eba53b81e59324e143"}]
